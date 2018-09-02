@@ -1,0 +1,44 @@
+#!/bin/sh
+
+# %BEGIN_COPYRIGHT%
+# 
+# Copyright 2018 Ian McWilliam (kaosagnt@gmail.com).
+#
+# Permission to use, copy, modify, and distribute this software for any
+# purpose with or without fee is hereby granted, provided that the above
+# copyright notice and this permission notice appear in all copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+# WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+# MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+# ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+# WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+# ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+# OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+#
+# %END_COPYRIGHT%
+
+printf "\nInstalling org.ianm.pf Telemetry: "
+
+PF_DESTDIR=/etc/pf.anchors.org.ianm.pf
+NEWSYSLOG_DESTDIR=/etc/newsyslog.d
+
+sudo cp LaunchDaemon/org.ianm.pf.plist /Library/LaunchDaemons/
+
+printf "LaunchDaemon "
+
+if [ ! -d ${PF_DESTDIR} ]; then
+	sudo mkdir ${PF_DESTDIR}
+fi
+
+sudo cp pf.anchors.org.ianm.pf/org.ianm.pf.conf ${PF_DESTDIR}
+sudo cp pf.anchors.org.ianm.pf/org.ianm.pf.rules ${PF_DESTDIR}
+sudo cp pf.anchors.org.ianm.pf/telemetry-ipaddresses ${PF_DESTDIR}
+
+printf "pf.anchors pf.rules telemetry-data "
+
+sudo cp newsyslog.d/org.ianm.pf.log ${NEWSYSLOG_DESTDIR}
+
+printf "newsyslog\n\n"
+
+printf "Installation complete: Please reboot.\n\n"

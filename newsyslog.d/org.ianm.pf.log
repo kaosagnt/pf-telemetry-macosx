@@ -1,0 +1,2 @@
+# logfilename          [owner:group]    mode count size when  flags [/pid_file] [sig_num]
+/var/log/pf-ianm.log                    640  5    *    $D0   J
