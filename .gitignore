@@ -1,0 +1,8 @@
+.DS_Store
+.includepath
+.buildpath
+.externalToolBuilders
+.project
+.settings/
+.settings/**/*
+x-code-project/**/*
