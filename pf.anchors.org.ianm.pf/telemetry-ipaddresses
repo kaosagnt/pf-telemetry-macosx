@@ -45,12 +45,14 @@
 #Name:	ecdn.firstimpression.io
 185.3.92.173
 #Name:	google-analytics.com
-172.217.167.100
+# XXX Also resolves to www.google.com
+# XXX 172.217.167.100
 #ssl.google-analytics.com	canonical name = ssl-google-analytics.l.google.com.
 #Name:	ssl-google-analytics.l.google.com
 216.58.200.104
 #Name:	googlesyndication.com
-216.58.203.100
+#XXX this also resolves to www.google.com
+#XXX 216.58.203.100
 #Name:	googletagmanager.com
 172.217.167.104
 #tpc.googlesyndication.com	canonical name = pagead-googlehosted.l.google.com.
