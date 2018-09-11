@@ -16,6 +16,23 @@
 #
 # %END_COPYRIGHT%
 
+# A Deceitful 'Doctor' in the Mac App Store
+# a massively popular app, surreptitiously steals your browsing history
+# https://objective-see.com/blog/blog_0x37.html
+# Adware Doctor
+# Name:	www.yelabapp.com
+52.35.252.223
+#Name:	adscan.yelabapp.com
+52.32.245.147
+#adwareres.securemacos.com	canonical name = d2u5bae7etcywi.cloudfront.net.
+#Name:	d2u5bae7etcywi.cloudfront.net
+54.230.245.3
+#Name:	d2u5bae7etcywi.cloudfront.net
+54.230.245.32
+#Name:	d2u5bae7etcywi.cloudfront.net
+54.230.245.48
+#Name:	d2u5bae7etcywi.cloudfront.net
+54.230.245.60
 #Name:	coinhive.com
 104.20.208.59
 #Name:	coinhive.com
