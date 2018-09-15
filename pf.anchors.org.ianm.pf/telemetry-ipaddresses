@@ -33,6 +33,41 @@
 54.230.245.48
 #Name:	d2u5bae7etcywi.cloudfront.net
 54.230.245.60
+#-- crypto miners ---
+#Name:	nanopool.org
+104.23.102.173
+#Name:	nanopool.org
+#104.23.103.173
+#Name:	xmr-asia1.nanopool.org
+139.99.102.70
+#Name:	xmr-asia1.nanopool.org
+139.99.102.71
+#Name:	xmr-asia1.nanopool.org
+139.99.102.72
+#Name:	xmr-asia1.nanopool.org
+139.99.102.73
+#Name:	xmr-asia1.nanopool.org
+139.99.102.74
+#Name:	xmr-asia1.nanopool.org
+172.104.165.191
+#Name:	xmr-asia1.nanopool.org
+103.3.62.64
+#Name:	xmr-asia1.nanopool.org
+139.99.101.197
+#Name:	xmr-asia1.nanopool.org
+139.99.101.198
+#Name:	xmr-asia1.nanopool.org
+139.99.101.232
+#Name:	xmr-us-east1.nanopool.org
+142.44.242.100
+#Name:	xmr-us-east1.nanopool.org
+142.44.243.6
+#Name:	xmr-us-east1.nanopool.org
+144.217.14.109
+#Name:	xmr-us-east1.nanopool.org
+144.217.14.139
+#Name:	xmr-us-east1.nanopool.org
+192.99.69.170
 #Name:	coinhive.com
 104.20.208.59
 #Name:	coinhive.com
@@ -45,6 +80,8 @@
 217.182.164.12
 #Name:	www.coinhive.com
 217.182.164.13
+#-- end crypto miners ---
+#-- Ad trackers --
 #Name:	firstimpression.io
 54.230.245.165
 #Name:	firstimpression.io
@@ -73,6 +110,7 @@
 185.3.92.98
 #Name:	ecdn.firstimpression.io
 185.3.92.173
+#-- end Ad trackers --
 #Name:	google-analytics.com
 # XXX Also resolves to www.google.com
 # XXX 172.217.167.100
