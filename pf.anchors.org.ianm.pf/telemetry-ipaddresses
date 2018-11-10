@@ -27,11 +27,8 @@
 #adwareres.securemacos.com	canonical name = d2u5bae7etcywi.cloudfront.net.
 #Name:	d2u5bae7etcywi.cloudfront.net
 54.230.245.3
-#Name:	d2u5bae7etcywi.cloudfront.net
 54.230.245.32
-#Name:	d2u5bae7etcywi.cloudfront.net
 54.230.245.48
-#Name:	d2u5bae7etcywi.cloudfront.net
 54.230.245.60
 #-- crypto miners ---
 #Name:	nanopool.org
@@ -40,75 +37,62 @@
 #104.23.103.173
 #Name:	xmr-asia1.nanopool.org
 139.99.102.70
-#Name:	xmr-asia1.nanopool.org
 139.99.102.71
-#Name:	xmr-asia1.nanopool.org
 139.99.102.72
-#Name:	xmr-asia1.nanopool.org
 139.99.102.73
-#Name:	xmr-asia1.nanopool.org
 139.99.102.74
-#Name:	xmr-asia1.nanopool.org
 172.104.165.191
-#Name:	xmr-asia1.nanopool.org
 103.3.62.64
-#Name:	xmr-asia1.nanopool.org
 139.99.101.197
-#Name:	xmr-asia1.nanopool.org
 139.99.101.198
-#Name:	xmr-asia1.nanopool.org
 139.99.101.232
 #Name:	xmr-us-east1.nanopool.org
 142.44.242.100
-#Name:	xmr-us-east1.nanopool.org
 142.44.243.6
-#Name:	xmr-us-east1.nanopool.org
 144.217.14.109
-#Name:	xmr-us-east1.nanopool.org
 144.217.14.139
-#Name:	xmr-us-east1.nanopool.org
 192.99.69.170
+#Name:	xmr-eu1.nanopool.org
+164.132.109.110
+198.251.88.21
+213.32.29.143
+217.182.169.148
+5.196.13.29
+5.196.23.240
+51.15.54.102
+51.15.58.224
+51.15.65.182
+51.15.69.136
+51.15.78.68
+51.255.34.118
+79.137.82.5
+92.222.180.119
+151.80.144.253
 #Name:	coinhive.com
 104.20.208.59
-#Name:	coinhive.com
 104.20.209.59
 #Name:	www.coinhive.com
 217.182.164.9
-#Name:	www.coinhive.com
 217.182.164.10
-#Name:	www.coinhive.com
 217.182.164.12
-#Name:	www.coinhive.com
 217.182.164.13
 #-- end crypto miners ---
 #-- Ad trackers --
 #Name:	firstimpression.io
 54.230.245.165
-#Name:	firstimpression.io
 54.230.245.225
-#Name:	firstimpression.io
 54.230.245.126
-#Name:	firstimpression.io
 54.230.245.133
 #Name:	ecdn.firstimpression.io
 185.3.92.176
-#Name:	ecdn.firstimpression.io
 185.3.93.141
-#Name:	ecdn.firstimpression.io
 185.3.93.144
-#Name:	ecdn.firstimpression.io
 212.71.236.71
-#Name:	ecdn.firstimpression.io
 212.71.236.102
-#Name:	ecdn.firstimpression.io
 212.71.236.106
-#Name:	ecdn.firstimpression.io
 178.79.175.104
-#Name:	ecdn.firstimpression.io
 178.79.175.247
-#Name:	ecdn.firstimpression.io
 185.3.92.98
-#Name:	ecdn.firstimpression.io
 185.3.92.173
 #-- end Ad trackers --
 #Name:	google-analytics.com
