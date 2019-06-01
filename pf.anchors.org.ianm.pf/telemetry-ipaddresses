@@ -71,11 +71,25 @@
 #Name:	coinhive.com
 104.20.208.59
 104.20.209.59
-#Name:	www.coinhive.com
+#Name: www.coinhive.com
 217.182.164.9
 217.182.164.10
 217.182.164.12
 217.182.164.13
+# Nansh0u campaign
+# https://www.guardicore.com/2019/05/nansh0u-campaign-hackers-arsenal-grows-stronger/
+102.165.51.80
+#Name:	lingua-char785.drumgrey.com.
+102.165.51.106
+111.67.206.87
+112.85.42.158
+#Name: ecs-114-115-164-211.compute.hwclouds-dns.com
+114.115.164.211
+119.131.209.186
+#Name:	107-173-21-146-host.colocrossing.com
+107.173.21.146
+#Name:	107-173-21-239-host.colocrossing.com
+107.173.21.239
 #-- end crypto miners ---
 #-- Ad trackers --
 #Name:	firstimpression.io
