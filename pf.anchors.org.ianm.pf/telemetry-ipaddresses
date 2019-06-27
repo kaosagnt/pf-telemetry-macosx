@@ -534,3 +534,18 @@
 #ssw.live.com	canonical name = gateway.skyprod.akadns.net.
 #Name:	gateway.skyprod.akadns.net
 40.77.224.11
+# IP Addresses from
+# https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/block-telemetry.ps1
+64.4.54.254
+65.39.117.230
+134.170.30.202
+137.116.81.24
+157.56.106.189
+# a184-86-53-99.deploy.static.akamaitechnologies.com
+184.86.53.99
+# a2-22-61-43.deploy.static.akamaitechnologies.com
+2.22.61.43
+# a2-22-61-66.deploy.static.akamaitechnologies.com
+2.22.61.66
+# a23-218-212-69.deploy.static.akamaitechnologies.com
+23.218.212.69
