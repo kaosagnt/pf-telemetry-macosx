@@ -157,8 +157,6 @@
 #account.microsoft.com.edgekey.net	canonical name = e9412.b.akamaiedge.net.
 # Name:	e9412.b.akamaiedge.net
 104.98.34.57
-#Name:	df.telemetry.microsoft.com
-65.52.100.7
 #oca.telemetry.microsoft.com	canonical name = oca.watson.data.microsoft.com.akadns.net.
 #Name:	oca.watson.data.microsoft.com.akadns.net
 13.66.56.169
@@ -175,36 +173,58 @@
 203.5.76.9
 #Name:	a1095.g2.akamai.net
 203.5.76.17
-#Name:	reports.wes.df.telemetry.microsoft.com
-65.52.100.91
-#Name:	services.wes.df.telemetry.microsoft.com
-65.52.100.92
-#Name:	wes.df.telemetry.microsoft.com
-65.52.100.93
 #settings-sandbox.data.microsoft.com	canonical name = sandbox.settings.data.microsoft.com.akadns.net.
 #Name:	sandbox.settings.data.microsoft.com.akadns.net
 40.80.222.227
+40.119.3.205
 #settings-win.data.microsoft.com	canonical name = asimov-win.settings.data.microsoft.com.akadns.net.
 #asimov-win.settings.data.microsoft.com.akadns.net	canonical name = geo.settings.data.microsoft.com.akadns.net.
 #geo.settings.data.microsoft.com.akadns.net	canonical name = hk2.settings.data.microsoft.com.akadns.net.
 #hk2.settings.data.microsoft.com.akadns.net	canonical name = hk2-ap.settings.data.microsoft.com.akadns.net.
 #Name:	hk2-ap.settings.data.microsoft.com.akadns.net
 111.221.29.253
+#settings-win.data.microsoft.com	canonical name = settingsfd-geo.trafficmanager.net.
+#settingsfd-geo.trafficmanager.net	canonical name = settingsfd-prod-hk2-endpoint.trafficmanager.net.
+#Name:	settingsfd-prod-hk2-endpoint.trafficmanager.net
+#settings-win.data.microsoft.com	canonical name = settingsfd-geo.trafficmanager.net.
+#Name:	settingsfd-geo.trafficmanager.net
+20.189.72.0/24
+20.189.74.0/24
 #Name:	sqm.df.telemetry.microsoft.com
-65.52.100.94
+#Name:  df.telemetry.microsoft.com
+#Name:	telemetry.microsoft.com
+#Name:	watson.ppe.telemetry.microsoft.com
+#Name:	wes.df.telemetry.microsoft.com
+#Name:	reports.wes.df.telemetry.microsoft.com
+#Name:	services.wes.df.telemetry.microsoft.com
+#Name:	wes.df.telemetry.microsoft.com
+65.52.100.0/24
 #sqm.telemetry.microsoft.com	canonical name = sqm.telemetry.microsoft.com.nsatc.net.
 #Name:	sqm.telemetry.microsoft.com.nsatc.net
-65.55.252.93
-#Name:	sqm.telemetry.microsoft.com.nsatc.net
-65.55.252.93
+65.55.252.0/24
 #telecommand.telemetry.microsoft.com	canonical name = co4.telecommand.telemetry.microsoft.com.akadns.net.
 #Name:	co4.telecommand.telemetry.microsoft.com.akadns.net
 65.55.252.190
 #telemetry.appex.bing.net	canonical name = telemetry.appex.search.prod.ms.akadns.net.
 #Name:	telemetry.appex.search.prod.ms.akadns.net
 65.52.161.64
-#Name:	telemetry.microsoft.com
-65.52.100.9
+#mobile.pipe.aria.microsoft.com	canonical name = prd.col.aria.mobile.skypedata.akadns.net.
+#prd.col.aria.mobile.skypedata.akadns.net	canonical name = pipe.skype.com.
+#pipe.skype.com	canonical name = pipe.prd.skypedata.akadns.net.
+#pipe.prd.skypedata.akadns.net	canonical name = pipe.cloudapp.aria.akadns.net.
+#Name:	pipe.cloudapp.aria.akadns.net
+#pipe.int.trafficmanager.net	canonical name = skypedataintcolwus00.cloudapp.net.
+#Name:	skypedataintcolwus00.cloudapp.net
+#52.114.6.0/24
+#52.114.32.0/24
+#52.114.74.0/24
+#52.114.75.0/24
+#52.114.76.0/24
+#52.114.88.0/24
+#52.114.128.0/24
+#52.114.132.0/24
+#52.114.158.0/24
+52.114.0.0/16
 #telemetry.urs.microsoft.com	canonical name = telemetrysvc-prod.trafficmanager.net.
 #telemetrysvc-prod.trafficmanager.net	canonical name = smartscreen-prod.microsoft.com.
 #smartscreen-prod.microsoft.com	canonical name = wd-prod-ss.trafficmanager.net.
@@ -214,11 +234,14 @@
 #vortex-sandbox.data.microsoft.com	canonical name = asimov-sandbox.vortex.data.microsoft.com.akadns.net.
 #Name:	asimov-sandbox.vortex.data.microsoft.com.akadns.net
 52.229.39.152
+#v10.vortex-win.data.microsoft.com	canonical name = v10-win.vortex.data.microsoft.com.akadns.net.
+#v10-win.vortex.data.microsoft.com.akadns.net	canonical name = geo.vortex.data.microsoft.com.akadns.net.
+#geo.vortex.data.microsoft.com.akadns.net	canonical name = hk2.vortex.data.microsoft.com.akadns.net.
+#Name:	hk2.vortex.data.microsoft.com.akadns.net
 #vortex-win.data.microsoft.com	canonical name = asimov-win.vortex.data.microsoft.com.akadns.net.
 #asimov-win.vortex.data.microsoft.com.akadns.net	canonical name = geo.vortex.data.microsoft.com.akadns.net.
 #geo.vortex.data.microsoft.com.akadns.net	canonical name = hk2.vortex.data.microsoft.com.akadns.net.
 #Name:	hk2.vortex.data.microsoft.com.akadns.net
-111.221.29.254
 #vortex.data.microsoft.com	canonical name = asimov.vortex.data.microsoft.com.akadns.net.
 #asimov.vortex.data.microsoft.com.akadns.net	canonical name = geo.vortex.data.microsoft.com.akadns.net.
 #geo.vortex.data.microsoft.com.akadns.net	canonical name = hk2.vortex.data.microsoft.com.akadns.net.
@@ -227,10 +250,6 @@
 #watson.telemetry.microsoft.com	canonical name = modern.watson.data.microsoft.com.akadns.net.
 #Name:	modern.watson.data.microsoft.com.akadns.net
 40.79.85.125
-#Name:	watson.ppe.telemetry.microsoft.com
-65.52.100.11
-#Name:	wes.df.telemetry.microsoft.com
-65.52.100.93
 #Name:	watson.live.com
 207.46.223.94
 #watson.microsoft.com	canonical name = legacy.watson.data.microsoft.com.akadns.net.
@@ -268,7 +287,6 @@
 #spynet2.microsoft.com	canonical name = wd-prod-cp.trafficmanager.net.
 #wd-prod-cp.trafficmanager.net	canonical name = wd-prod-cp-au-east-1-fe.australiaeast.cloudapp.azure.com.
 #Name:	wd-prod-cp-au-east-1-fe.australiaeast.cloudapp.azure.com
-52.237.236.160
 #spynetalt.microsoft.com	canonical name = wd-prod-cp.trafficmanager.net.
 #wd-prod-cp.trafficmanager.net	canonical name = wd-prod-cp-au-east-1-fe.australiaeast.cloudapp.azure.com.
 #Name:	wd-prod-cp-au-east-1-fe.australiaeast.cloudapp.azure.com
@@ -298,23 +316,31 @@
 #Name:	a-0001.a-msedge.net
 13.107.21.200
 #Name:	a-0001.a-msedge.net
-204.79.197.200
 #Name:	a-0002.a-msedge.net
-204.79.197.201
 #Name:	a-0003.a-msedge.net
-204.79.197.203
 #Name:	a-0004.a-msedge.net
-204.79.197.206
 #Name:	a-0005.a-msedge.net
-204.79.197.204
 #Name:	a-0006.a-msedge.net
-204.79.197.208
 #Name:	a-0007.a-msedge.net
-204.79.197.209
 #Name:	a-0008.a-msedge.net
-204.79.197.210
 #Name:	a-0009.a-msedge.net
-204.79.197.211
+#flex.msn.com	canonical name = flex-msn-com.a-0003.a-msedge.net.
+#flex-msn-com.a-0003.a-msedge.net	canonical name = a-0003.a-msedge.net.
+#Name:	a-0003.a-msedge.net
+#Name:	msedge.net
+#preview.msn.com	canonical name = preview-msn-com.a-0003.a-msedge.net.
+#preview-msn-com.a-0003.a-msedge.net	canonical name = a-0003.a-msedge.net.
+#Name:	a-0003.a-msedge.net
+204.79.197.0/24
+#test-exp-s2s.msedge.net
+# canonical name = test-exp-s2s-msedge-net.e-0009.e-msedge.net.
+# test-exp-s2s-msedge-net.e-0009.e-msedge.net
+# canonical name = e-0009.e-msedge.net.
+# Name: e-0009.e-msedge.net
+13.107.5.88
+#config.edge.skype.com	canonical name = s-0001.s-msedge.net.
+#Name:	s-0001.s-msedge.net
+13.107.3.128
 #ac3.msn.com	canonical name = ac3.msn.com.nsatc.net.
 #ac3.msn.com.nsatc.net	canonical name = fesweb1.ch1d.binginternal.com.
 #Name:	fesweb1.ch1d.binginternal.com
@@ -404,10 +430,6 @@
 52.164.206.56
 #Name:	microsoft-hohm.com
 104.215.95.187
-#flex.msn.com	canonical name = flex-msn-com.a-0003.a-msedge.net.
-#flex-msn-com.a-0003.a-msedge.net	canonical name = a-0003.a-msedge.net.
-#Name:	a-0003.a-msedge.net
-204.79.197.203
 #g.msn.com	canonical name = g.msn.com.nsatc.net.
 #Name:	g.msn.com.nsatc.net
 111.221.29.13
@@ -423,12 +445,6 @@
 #redirection.prod.cms.msn.com.akadns.net	canonical name = legacy-redirection-easia-prod-hp.cloudapp.net.
 #Name:	legacy-redirection-easia-prod-hp.cloudapp.net
 13.75.94.74
-#m.adnxs.com	canonical name = microsoft.geo.appnexusgslb.net.
-#microsoft.geo.appnexusgslb.net	canonical name = m.ib.sin1.geoadnxs.com.
-#Name:	m.ib.sin1.geoadnxs.com
-103.243.220.234
-#Name:	m.ib.sin1.geoadnxs.com
-103.243.221.108
 #m.hotmail.com	canonical name = eas.outlook.com.
 #eas.outlook.com	canonical name = lb.geo.office365.com.
 #lb.geo.office365.com	canonical name = outlook.office365.com.g.office365.com.
@@ -451,8 +467,6 @@
 40.100.146.194
 #Name:	outlook-au.office365.com
 40.100.148.18
-#Name:	msedge.net
-204.79.197.197
 #Name:	msnbot-65-55-108-23.search.msn.com
 65.55.108.23
 #msntest.serving-sys.com	canonical name = msntest.serving-sys.com.edgesuite.net.
@@ -463,10 +477,6 @@
 203.5.76.9
 #Name:	pre.footprintpredict.com
 68.178.213.61
-#preview.msn.com	canonical name = preview-msn-com.a-0003.a-msedge.net.
-#preview-msn-com.a-0003.a-msedge.net	canonical name = a-0003.a-msedge.net.
-#Name:	a-0003.a-msedge.net
-204.79.197.203
 #rad.live.com	canonical name = rad.msn.com.
 #s.gateway.messenger.live.com	canonical name = skype.geo.msnmessenger.msn.com.akadns.net.
 #skype.geo.msnmessenger.msn.com.akadns.net	canonical name = ea2hk2-skype.msnmessenger.msn.com.akadns.net.
@@ -478,24 +488,15 @@
 216.58.203.102
 #Name:	schemas.microsoft.akadns.net
 65.54.226.187
+#m.adnxs.com	canonical name = microsoft.geo.appnexusgslb.net.
+#microsoft.geo.appnexusgslb.net	canonical name = m.ib.sin1.geoadnxs.com.
+#Name:	m.ib.sin1.geoadnxs.com
 #secure.adnxs.com	canonical name = g.geogslb.com.
 #g.geogslb.com	canonical name = ib.sin1.geoadnxs.com.
 #Name:	ib.sin1.geoadnxs.com
-103.243.221.112
+103.243.220.0/24
 #Name:	ib.sin1.geoadnxs.com
-103.243.220.231
-#Name:	ib.sin1.geoadnxs.com
-103.243.221.17
-#Name:	ib.sin1.geoadnxs.com
-103.243.221.46
-#Name:	ib.sin1.geoadnxs.com
-103.243.221.51
-#Name:	ib.sin1.geoadnxs.com
-103.243.221.75
-#Name:	ib.sin1.geoadnxs.com
-103.243.221.87
-#Name:	ib.sin1.geoadnxs.com
-103.243.221.109
+103.243.221.0/24
 #secure.flashtalking.com	canonical name = secure.flashtalking.com.edgekey.net.
 #secure.flashtalking.com.edgekey.net	canonical name = e1486.g.akamaiedge.net.
 #Name:	e1486.g.akamaiedge.net
