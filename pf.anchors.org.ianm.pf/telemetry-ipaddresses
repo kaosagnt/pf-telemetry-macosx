@@ -221,7 +221,24 @@
 #Name:	pipe.cloudapp.aria.akadns.net
 #pipe.int.trafficmanager.net	canonical name = skypedataintcolwus00.cloudapp.net.
 #Name:	skypedataintcolwus00.cloudapp.net
+#au.pipe.aria.microsoft.com	canonical name = au.pipe.prd.skypedata.akadns.net.
+#au.pipe.prd.skypedata.akadns.net	canonical name = au.pipe.cloudapp.aria.akadns.net.
+#Name:	au.pipe.cloudapp.aria.akadns.net
+#https://au.pipe.aria.microsoft.com/Collector/3.0/
+#us.pipe.aria.microsoft.com	canonical name = us.pipe.prd.skypedata.akadns.net.
+#us.pipe.prd.skypedata.akadns.net	canonical name = us.pipe.cloudapp.aria.akadns.net.
+#Name:	us.pipe.cloudapp.aria.akadns.net
+#https://us.pipe.aria.microsoft.com/Collector/3.0/
+#jp.pipe.aria.microsoft.com	canonical name = jp.pipe.prd.skypedata.akadns.net.
+#jp.pipe.prd.skypedata.akadns.net	canonical name = jp.pipe.cloudapp.aria.akadns.net.
+#Name:	jp.pipe.cloudapp.aria.akadns.net
+#https://jp.pipe.aria.microsoft.com/Collector/3.0/
+#eu.pipe.aria.microsoft.com	canonical name = eu.pipe.prd.skypedata.akadns.net.
+#eu.pipe.prd.skypedata.akadns.net	canonical name = eu.pipe.cloudapp.aria.akadns.net.
+#Name:	eu.pipe.cloudapp.aria.akadns.net
+#https://eu.pipe.aria.microsoft.com/Collector/3.0/
 #52.114.6.0/24
+#52.114.16.0/24
 #52.114.32.0/24
 #52.114.74.0/24
 #52.114.75.0/24
@@ -231,6 +248,11 @@
 #52.114.132.0/24
 #52.114.158.0/24
 52.114.0.0/16
+#https://de.pipe.aria.microsoft.com/Collector/3.0/
+#de.pipe.aria.microsoft.com	canonical name = de.pipe.prd.skypedata.akadns.net.
+#de.pipe.prd.skypedata.akadns.net	canonical name = de.pipe.cloudapp.aria.akadns.net.
+#Name:	de.pipe.cloudapp.aria.akadns.net
+51.4.231.0/24
 #telemetry.urs.microsoft.com	canonical name = telemetrysvc-prod.trafficmanager.net.
 #telemetrysvc-prod.trafficmanager.net	canonical name = smartscreen-prod.microsoft.com.
 #smartscreen-prod.microsoft.com	canonical name = wd-prod-ss.trafficmanager.net.
