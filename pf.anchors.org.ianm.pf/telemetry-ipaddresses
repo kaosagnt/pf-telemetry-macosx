@@ -208,6 +208,12 @@
 #telemetry.appex.bing.net	canonical name = telemetry.appex.search.prod.ms.akadns.net.
 #Name:	telemetry.appex.search.prod.ms.akadns.net
 65.52.161.64
+#telemetryservice.firstpartyapps.oaspapps.com	canonical name = firstpartyapps.oaspapps.com.
+#firstpartyapps.oaspapps.com	canonical name = prod.firstpartyapps.oaspapps.com.akadns.net.
+#prod.firstpartyapps.oaspapps.com.akadns.net	canonical name = ea-zzz.firstpartyapps.oaspapps.com.
+#ea-zzz.firstpartyapps.oaspapps.com	canonical name = osi-prod-ea01-firstpartapps.cloudapp.net.
+#Name:	osi-prod-ea01-firstpartapps.cloudapp.net
+52.109.120.0
 #mobile.pipe.aria.microsoft.com	canonical name = prd.col.aria.mobile.skypedata.akadns.net.
 #prd.col.aria.mobile.skypedata.akadns.net	canonical name = pipe.skype.com.
 #pipe.skype.com	canonical name = pipe.prd.skypedata.akadns.net.
