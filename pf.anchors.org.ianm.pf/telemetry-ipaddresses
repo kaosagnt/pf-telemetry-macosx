@@ -219,8 +219,10 @@
 #pipe.skype.com	canonical name = pipe.prd.skypedata.akadns.net.
 #pipe.prd.skypedata.akadns.net	canonical name = pipe.cloudapp.aria.akadns.net.
 #Name:	pipe.cloudapp.aria.akadns.net
+#https://mobile.pipe.aria.microsoft.com/Collector/3.0/
 #pipe.int.trafficmanager.net	canonical name = skypedataintcolwus00.cloudapp.net.
 #Name:	skypedataintcolwus00.cloudapp.net
+#https://pipe.int.trafficmanager.net/Collector/3.0/
 #au.pipe.aria.microsoft.com	canonical name = au.pipe.prd.skypedata.akadns.net.
 #au.pipe.prd.skypedata.akadns.net	canonical name = au.pipe.cloudapp.aria.akadns.net.
 #Name:	au.pipe.cloudapp.aria.akadns.net
@@ -369,6 +371,11 @@
 #preview-msn-com.a-0003.a-msedge.net	canonical name = a-0003.a-msedge.net.
 #Name:	a-0003.a-msedge.net
 204.79.197.0/24
+#gate.hockeyapp.net	canonical name = dc.applicationinsights.microsoft.com.
+#dc.applicationinsights.microsoft.com	canonical name = dc.trafficmanager.net.
+#dc.trafficmanager.net	canonical name = eau-breeziest-in.cloudapp.net.
+#Name:	eau-breeziest-in.cloudapp.net
+13.70.72.233
 #test-exp-s2s.msedge.net
 # canonical name = test-exp-s2s-msedge-net.e-0009.e-msedge.net.
 # test-exp-s2s-msedge-net.e-0009.e-msedge.net
@@ -554,8 +561,6 @@
 #statsfe2.ws.microsoft.com	canonical name = s2.statsupdate.microsoft.com.nsatc.net.
 #Name:	s2.statsupdate.microsoft.com.nsatc.net
 52.183.47.176
-#Name:	s2.statsupdate.microsoft.com.nsatc.net
-13.78.184.44
 #Name:	survey.watson.microsoft.com
 207.68.166.254
 #view.atdmt.com	canonical name = ad.atdmt.com.
@@ -572,6 +577,11 @@
 #ssw.live.com	canonical name = gateway.skyprod.akadns.net.
 #Name:	gateway.skyprod.akadns.net
 40.77.224.11
+#vortex.data.microsoft.com	canonical name = asimov.vortex.data.microsoft.com.akadns.net.
+#asimov.vortex.data.microsoft.com.akadns.net	canonical name = geo.vortex.data.microsoft.com.akadns.net.
+#geo.vortex.data.microsoft.com.akadns.net	canonical name = hk2.vortex.data.microsoft.com.akadns.net.
+#Name:	hk2.vortex.data.microsoft.com.akadns.net
+40.77.226.250
 # IP Addresses from
 # https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/block-telemetry.ps1
 64.4.54.254
