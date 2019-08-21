@@ -176,6 +176,8 @@
 #settings-sandbox.data.microsoft.com	canonical name = sandbox.settings.data.microsoft.com.akadns.net.
 #Name:	sandbox.settings.data.microsoft.com.akadns.net
 40.80.222.227
+# svchost.exe (utcsvc -p)
+40.90.137.125
 40.119.3.205
 #settings-win.data.microsoft.com	canonical name = asimov-win.settings.data.microsoft.com.akadns.net.
 #asimov-win.settings.data.microsoft.com.akadns.net	canonical name = geo.settings.data.microsoft.com.akadns.net.
@@ -367,6 +369,7 @@
 #a.rad.msn.com	canonical name = rad.msn.com.
 #Name:	a-0001.a-msedge.net
 13.107.21.200
+204.79.197.200
 #Name:	a-0001.a-msedge.net
 #Name:	a-0002.a-msedge.net
 #Name:	a-0003.a-msedge.net
@@ -420,7 +423,10 @@
 4.27.252.254
 #aidps.atdmt.com	canonical name = aidps.msn.com.nsatc.net.
 #Name:	aidps.msn.com.nsatc.net
-20.36.217.188
+#20.36.217.188
+#20.36.219.28 svchost.exe (utcsvc -p)
+20.36.217.0/24
+20.36.219.0/24
 #aka-cdn-ns.adtech.de	canonical name = cs697.wac.thetacdn.net.
 #cs697.wac.thetacdn.net	canonical name = cs700.lb.wac.apr-1b09e.edgecastdns.net.
 #cs700.lb.wac.apr-1b09e.edgecastdns.net	canonical name = cs1012.wac.thetacdn.net.
