@@ -213,6 +213,7 @@
 #prod.firstpartyapps.oaspapps.com.akadns.net	canonical name = ea-zzz.firstpartyapps.oaspapps.com.
 #ea-zzz.firstpartyapps.oaspapps.com	canonical name = osi-prod-ea01-firstpartapps.cloudapp.net.
 #Name:	osi-prod-ea01-firstpartapps.cloudapp.net
+#https://telemetryservice.firstpartyapps.oaspapps.com/telemetryservice/telemetryproxy.html
 52.109.120.0
 #mobile.pipe.aria.microsoft.com	canonical name = prd.col.aria.mobile.skypedata.akadns.net.
 #prd.col.aria.mobile.skypedata.akadns.net	canonical name = pipe.skype.com.
@@ -239,6 +240,12 @@
 #eu.pipe.prd.skypedata.akadns.net	canonical name = eu.pipe.cloudapp.aria.akadns.net.
 #Name:	eu.pipe.cloudapp.aria.akadns.net
 #https://eu.pipe.aria.microsoft.com/Collector/3.0/
+#browser.pipe.aria.microsoft.com	canonical name = prd.col.aria.browser.skypedata.akadns.net.
+#prd.col.aria.browser.skypedata.akadns.net	canonical name = pipe.skype.com.
+#pipe.skype.com	canonical name = pipe.prd.skypedata.akadns.net.
+#pipe.prd.skypedata.akadns.net	canonical name = pipe.cloudapp.aria.akadns.net.
+#Name:	pipe.cloudapp.aria.akadns.net
+#https://browser.pipe.aria.microsoft.com/Collector/3.0/
 #52.114.6.0/24
 #52.114.16.0/24
 #52.114.32.0/24
@@ -306,6 +313,12 @@
 #diagnostics.support.microsoft.com	canonical name = diagnostics.support.microsoft.akadns.net.
 #Name:	diagnostics.support.microsoft.akadns.net
 134.170.52.151
+#appsforoffice.microsoft.com	canonical name = appsforoffice.microsoft.com.edgekey.net.
+#appsforoffice.microsoft.com.edgekey.net	canonical name = e2682.g.akamaiedge.net.
+#Name:	e2682.g.akamaiedge.net
+#https://appsforoffice.microsoft.com/lib/1/hosted/ariatelemetry/aria-web-telemetry.js
+104.74.34.129
+104.116.115.120
 #i1.services.social.microsoft.com	canonical name = i.s1.social.ms.akadns.net.
 #i.s1.social.ms.akadns.net	canonical name = e9946.g.akamaiedge.net.
 #Name:	e9946.g.akamaiedge.net
