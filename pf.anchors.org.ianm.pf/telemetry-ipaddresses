@@ -146,6 +146,59 @@
 34.237.177.162
 #Name:	in.treasuredata.com
 35.153.25.145
+# --- Start Mozilla Telemetry ---
+#telemetry.mozilla.org	canonical name = d65ojvdli7jd8.cloudfront.net.
+#Name:	d65ojvdli7jd8.cloudfront.net
+13.32.126.16
+13.32.126.68
+13.32.126.79
+13.32.126.96
+13.226.81.25
+13.226.81.45
+13.226.81.100
+13.226.81.110
+#telemetry.mozilla.org	canonical name = d65ojvdli7jd8.cloudfront.net.
+#Name:	d65ojvdli7jd8.cloudfront.net
+99.86.212.22
+99.86.212.66
+99.86.212.69
+99.86.212.93
+#incoming.telemetry.mozilla.org	canonical name = telemetry-incoming.r53-2.services.mozilla.com.
+#telemetry-incoming.r53-2.services.mozilla.com	canonical name = pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.
+#Name:	pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+34.216.92.246
+35.160.208.145
+35.162.235.163
+50.112.59.215
+52.10.187.18
+52.24.89.101
+52.32.219.185
+52.35.171.123
+52.36.57.225
+52.39.3.8
+52.40.106.174
+52.43.139.170
+52.89.247.143
+54.68.90.7
+54.68.191.13
+#tiles.services.mozilla.com	canonical name = tiles.r53-2.services.mozilla.com.
+#Name:	tiles.r53-2.services.mozilla.com
+35.166.89.106
+35.167.81.14
+52.10.184.57
+52.11.24.67
+52.24.113.72
+52.33.147.163
+52.35.186.10
+52.38.5.11
+52.43.93.252
+52.89.51.22
+54.68.132.173
+54.149.28.165
+54.149.29.182
+54.149.129.221
+54.191.69.20
+# --- end Mozilla Telemetry ---
 #Name:	redshell.io
 138.91.197.151
 #api.redshell.io	canonical name = application-api.redshell.io.
