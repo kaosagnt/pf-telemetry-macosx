@@ -440,6 +440,7 @@
 #preview-msn-com.a-0003.a-msedge.net	canonical name = a-0003.a-msedge.net.
 #Name:	a-0003.a-msedge.net
 204.79.197.0/24
+#dc.services.visualstudio.com	canonical name = dc.applicationinsights.microsoft.com.
 #gate.hockeyapp.net	canonical name = dc.applicationinsights.microsoft.com.
 #dc.applicationinsights.microsoft.com	canonical name = dc.trafficmanager.net.
 #dc.trafficmanager.net	canonical name = eau-breeziest-in.cloudapp.net.
@@ -543,8 +544,8 @@
 134.170.165.251
 #feedback.microsoft-hohm.com	canonical name = microsoft-hohm.com.
 #Name:	microsoft-hohm.com
+#Name:	tempuri.org
 52.164.206.56
-#Name:	microsoft-hohm.com
 104.215.95.187
 #g.msn.com	canonical name = g.msn.com.nsatc.net.
 #Name:	g.msn.com.nsatc.net
@@ -566,23 +567,15 @@
 #lb.geo.office365.com	canonical name = outlook.office365.com.g.office365.com.
 #outlook.office365.com.g.office365.com	canonical name = outlook-au.office365.com.
 #Name:	outlook-au.office365.com
-40.100.148.194
-#Name:	outlook-au.office365.com
-40.100.149.178
-#Name:	outlook-au.office365.com
-40.100.151.2
-#Name:	outlook-au.office365.com
-40.100.151.242
-#Name:	outlook-au.office365.com
 40.100.144.146
-#Name:	outlook-au.office365.com
 40.100.144.226
-#Name:	outlook-au.office365.com
 40.100.145.162
-#Name:	outlook-au.office365.com
 40.100.146.194
-#Name:	outlook-au.office365.com
 40.100.148.18
+40.100.148.194
+40.100.149.178
+40.100.151.2
+40.100.151.242
 #Name:	msnbot-65-55-108-23.search.msn.com
 65.55.108.23
 #msntest.serving-sys.com	canonical name = msntest.serving-sys.com.edgesuite.net.
