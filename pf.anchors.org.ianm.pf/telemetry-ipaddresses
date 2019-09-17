@@ -557,11 +557,23 @@
 104.74.43.42
 #Name:	lb1.www.ms.akadns.net
 40.121.50.251
+#petrol.office.microsoft.com	canonical name = petrol2.trafficmanager.net.
+#petrol2.trafficmanager.net	canonical name = petrol-prod-ea-2.azurewebsites.net.
+#petrol-prod-ea-2.azurewebsites.net	canonical name = waws-prod-hk1-011.sip.azurewebsites.windows.net.
+#waws-prod-hk1-011.sip.azurewebsites.windows.net	canonical name = waws-prod-hk1-011.cloudapp.net.
+#Name:	waws-prod-hk1-011.cloudapp.net
+13.75.47.15
 #live.rads.msn.com	canonical name = redirection.prod.cms.msn.com.
 #redirection.prod.cms.msn.com	canonical name = redirection.prod.cms.msn.com.akadns.net.
 #redirection.prod.cms.msn.com.akadns.net	canonical name = legacy-redirection-easia-prod-hp.cloudapp.net.
 #Name:	legacy-redirection-easia-prod-hp.cloudapp.net
 13.75.94.74
+#petrol-int.office.microsoft.com	canonical name = petroltest2.trafficmanager.net.
+#petroltest2.trafficmanager.net	canonical name = petrol-int-wus2.azurewebsites.net.
+#petrol-int-wus2.azurewebsites.net	canonical name = waws-prod-bay-119.sip.azurewebsites.windows.net.
+#waws-prod-bay-119.sip.azurewebsites.windows.net	canonical name = waws-prod-bay-119.cloudapp.net.
+#Name:	waws-prod-bay-119.cloudapp.net
+104.40.11.192
 #m.hotmail.com	canonical name = eas.outlook.com.
 #eas.outlook.com	canonical name = lb.geo.office365.com.
 #lb.geo.office365.com	canonical name = outlook.office365.com.g.office365.com.
