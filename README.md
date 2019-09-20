@@ -41,42 +41,6 @@ ALTQ related functions disabled
 	In/Pass:     [ Packets: 0                  Bytes: 0                  ]
 	Out/Block:   [ Packets: 176                Bytes: 11008              ]
 	Out/Pass:    [ Packets: 0                  Bytes: 0                  ]
-   20.36.217.188
-	Cleared:     Mon Aug 20 09:29:46 2018
-	In/Block:    [ Packets: 0                  Bytes: 0                  ]
-	In/Pass:     [ Packets: 0                  Bytes: 0                  ]
-	Out/Block:   [ Packets: 0                  Bytes: 0                  ]
-	Out/Pass:    [ Packets: 0                  Bytes: 0                  ]
-   34.237.177.162
-	Cleared:     Mon Aug 20 09:29:46 2018
-	In/Block:    [ Packets: 0                  Bytes: 0                  ]
-	In/Pass:     [ Packets: 0                  Bytes: 0                  ]
-	Out/Block:   [ Packets: 0                  Bytes: 0                  ]
-	Out/Pass:    [ Packets: 0                  Bytes: 0                  ]
-   35.153.25.145
-	Cleared:     Mon Aug 20 09:29:46 2018
-	In/Block:    [ Packets: 0                  Bytes: 0                  ]
-	In/Pass:     [ Packets: 0                  Bytes: 0                  ]
-	Out/Block:   [ Packets: 0                  Bytes: 0                  ]
-	Out/Pass:    [ Packets: 0                  Bytes: 0                  ]
-   40.67.186.102
-	Cleared:     Mon Aug 20 09:29:46 2018
-	In/Block:    [ Packets: 0                  Bytes: 0                  ]
-	In/Pass:     [ Packets: 0                  Bytes: 0                  ]
-	Out/Block:   [ Packets: 0                  Bytes: 0                  ]
-	Out/Pass:    [ Packets: 0                  Bytes: 0                  ]
-   40.79.85.125
-	Cleared:     Mon Aug 20 09:29:46 2018
-	In/Block:    [ Packets: 0                  Bytes: 0                  ]
-	In/Pass:     [ Packets: 0                  Bytes: 0                  ]
-	Out/Block:   [ Packets: 11                 Bytes: 688                ]
-	Out/Pass:    [ Packets: 0                  Bytes: 0                  ]
-   40.100.146.194
-	Cleared:     Mon Aug 20 09:29:46 2018
-	In/Block:    [ Packets: 0                  Bytes: 0                  ]
-	In/Pass:     [ Packets: 0                  Bytes: 0                  ]
-	Out/Block:   [ Packets: 22                 Bytes: 1376               ]
-	Out/Pass:    [ Packets: 0                  Bytes: 0                  ]
    52.237.236.160
 	Cleared:     Mon Aug 20 09:29:46 2018
 	In/Block:    [ Packets: 0                  Bytes: 0                  ]
@@ -106,12 +70,6 @@ ALTQ related functions disabled
 	In/Block:    [ Packets: 0                  Bytes: 0                  ]
 	In/Pass:     [ Packets: 0                  Bytes: 0                  ]
 	Out/Block:   [ Packets: 99                 Bytes: 6192               ]
-	Out/Pass:    [ Packets: 0                  Bytes: 0                  ]
-   203.5.76.24
-	Cleared:     Mon Aug 20 09:29:46 2018
-	In/Block:    [ Packets: 0                  Bytes: 0                  ]
-	In/Pass:     [ Packets: 0                  Bytes: 0                  ]
-	Out/Block:   [ Packets: 11                 Bytes: 688                ]
 	Out/Pass:    [ Packets: 0                  Bytes: 0                  ]
    203.5.76.25
 	Cleared:     Mon Aug 20 09:29:46 2018
