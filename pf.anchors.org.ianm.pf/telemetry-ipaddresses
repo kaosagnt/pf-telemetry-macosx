@@ -16,6 +16,14 @@
 #
 # %END_COPYRIGHT%
 
+#-- do not block --
+#download.windowsupdate.com	canonical name = 2-01-3cf7-0009.cdx.cedexis.net.
+#2-01-3cf7-0009.cdx.cedexis.net	canonical name = wu.azureedge.net.
+#wu.azureedge.net	canonical name = wu.ec.azureedge.net.
+#wu.ec.azureedge.net	canonical name = wu.wpc.apr-52dd2.edgecastdns.net.
+#Name:	wu.wpc.apr-52dd2.edgecastdns.net
+#Address: 72.5.65.111
+#-- end do not block ---
 # A Deceitful 'Doctor' in the Mac App Store
 # a massively popular app, surreptitiously steals your browsing history
 # https://objective-see.com/blog/blog_0x37.html
