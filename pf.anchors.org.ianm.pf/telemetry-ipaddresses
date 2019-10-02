@@ -154,6 +154,12 @@
 34.237.177.162
 #Name:	in.treasuredata.com
 35.153.25.145
+# --- Start github Telemetry octolytics-host ---
+#collector.githubapp.com	canonical name = analytics-collector-28944298.us-east-1.elb.amazonaws.com.
+#Name:	analytics-collector-28944298.us-east-1.elb.amazonaws.com
+3.224.219.57
+34.194.228.114
+# --- end github Telemetry ---
 # --- Start Mozilla Telemetry ---
 #telemetry.mozilla.org	canonical name = d65ojvdli7jd8.cloudfront.net.
 #Name:	d65ojvdli7jd8.cloudfront.net
