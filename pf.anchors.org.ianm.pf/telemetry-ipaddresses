@@ -16,14 +16,14 @@
 #
 # %END_COPYRIGHT%
 
-#-- do not block --
+# -- do not block --
 #download.windowsupdate.com	canonical name = 2-01-3cf7-0009.cdx.cedexis.net.
 #2-01-3cf7-0009.cdx.cedexis.net	canonical name = wu.azureedge.net.
 #wu.azureedge.net	canonical name = wu.ec.azureedge.net.
 #wu.ec.azureedge.net	canonical name = wu.wpc.apr-52dd2.edgecastdns.net.
 #Name:	wu.wpc.apr-52dd2.edgecastdns.net
 #Address: 72.5.65.111
-#-- end do not block ---
+# -- end do not block ---
 # A Deceitful 'Doctor' in the Mac App Store
 # a massively popular app, surreptitiously steals your browsing history
 # https://objective-see.com/blog/blog_0x37.html
@@ -38,7 +38,7 @@
 54.230.245.32
 54.230.245.48
 54.230.245.60
-#-- crypto miners ---
+# -- crypto miners --
 #Name:	nanopool.org
 104.23.102.173
 #Name:	nanopool.org
@@ -98,8 +98,8 @@
 107.173.21.146
 #Name:	107-173-21-239-host.colocrossing.com
 107.173.21.239
-#-- end crypto miners ---
-#-- Ad trackers --
+# -- end crypto miners --
+# -- Ad trackers --
 #Name:	firstimpression.io
 54.230.245.165
 54.230.245.225
@@ -116,7 +116,8 @@
 178.79.175.247
 185.3.92.98
 185.3.92.173
-#-- end Ad trackers --
+# -- end Ad trackers --
+# -- start google-analytics --
 #Name:	google-analytics.com
 # XXX Also resolves to www.google.com
 # XXX 172.217.167.100
@@ -131,12 +132,10 @@
 #tpc.googlesyndication.com	canonical name = pagead-googlehosted.l.google.com.
 #Name:	pagead-googlehosted.l.google.com
 172.217.167.97
-#googleads.g.doubleclick.net	canonical name = pagead46.l.doubleclick.net.
-#Name:	pagead46.l.doubleclick.net
-172.217.25.34
-#pagead2.googlesyndication.com	canonical name = pagead46.l.doubleclick.net.
-#Name:	pagead46.l.doubleclick.net
-172.217.25.130
+#www.google-analytics.com	canonical name = www-google-analytics.l.google.com.
+#Name:	www-google-analytics.l.google.com
+172.217.167.110
+# -- end google-analytics --
 #www.treasuredata.com	canonical name = live-td-dev-site.pantheonsite.io.
 #live-td-dev-site.pantheonsite.io	canonical name = fe2.edge.pantheon.io.
 #Name:	fe2.edge.pantheon.io
@@ -154,13 +153,21 @@
 34.237.177.162
 #Name:	in.treasuredata.com
 35.153.25.145
-# --- Start github Telemetry octolytics-host ---
+# -- start linkedin.com Telemetry --
+#sb.scorecardresearch.com	canonical name = sb.scorecardresearch.com.edgekey.net.
+#sb.scorecardresearch.com.edgekey.net	canonical name = e1879.e7.akamaiedge.net.
+#Name:	e1879.e7.akamaiedge.net
+23.63.12.44
+#Name:	scorecardresearch.com
+165.193.78.252
+# -- end linkedin.com Telemetry --
+# -- start github Telemetry octolytics-host --
 #collector.githubapp.com	canonical name = analytics-collector-28944298.us-east-1.elb.amazonaws.com.
 #Name:	analytics-collector-28944298.us-east-1.elb.amazonaws.com
 3.224.219.57
 34.194.228.114
-# --- end github Telemetry ---
-# --- Start Mozilla Telemetry ---
+# -- end github Telemetry --
+# -- start Mozilla Telemetry --
 #telemetry.mozilla.org	canonical name = d65ojvdli7jd8.cloudfront.net.
 #Name:	d65ojvdli7jd8.cloudfront.net
 13.32.126.16
@@ -212,7 +219,7 @@
 54.149.29.182
 54.149.129.221
 54.191.69.20
-# --- end Mozilla Telemetry ---
+# -- end Mozilla Telemetry --
 #Name:	redshell.io
 138.91.197.151
 #api.redshell.io	canonical name = application-api.redshell.io.
@@ -473,9 +480,23 @@
 #ac3.msn.com.nsatc.net	canonical name = fesweb1.ch1d.binginternal.com.
 #Name:	fesweb1.ch1d.binginternal.com
 131.253.14.76
+# -- start doubleclick.net --
 #ad.doubleclick.net	canonical name = dart.l.doubleclick.net.
 #Name:	dart.l.doubleclick.net
 216.58.203.102
+#googleads.g.doubleclick.net	canonical name = pagead46.l.doubleclick.net.
+#Name:	pagead46.l.doubleclick.net
+#172.217.25.34
+#172.217.25.130
+172.217.25.0/24
+#stats.g.doubleclick.net	canonical name = stats.l.doubleclick.net.
+#Name:	stats.l.doubleclick.net
+#74.125.24.157
+#74.125.24.156
+#74.125.24.155
+#74.125.24.154
+74.125.24.0/24
+# -- end doubleclick.net --
 #ads.msn.com	canonical name = ads.msn.com.nsatc.net.
 #Name:	ads.msn.com.nsatc.net
 65.55.128.80
