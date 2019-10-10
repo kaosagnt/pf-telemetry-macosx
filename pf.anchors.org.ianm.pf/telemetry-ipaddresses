@@ -100,6 +100,15 @@
 107.173.21.239
 # -- end crypto miners --
 # -- Ad trackers --
+# Zappistore - wistia
+#distillery.wistia.com	canonical name = dub-prod1-stats-tap-alb-79344629.us-west-2.elb.amazonaws.com.
+#Name:	dub-prod1-stats-tap-alb-79344629.us-west-2.elb.amazonaws.com
+52.11.165.196
+54.201.233.70
+#pipedream.wistia.com	canonical name = dub-prod1-pipedream-prod-alb-302751516.us-west-2.elb.amazonaws.com.
+#Name:	dub-prod1-pipedream-prod-alb-302751516.us-west-2.elb.amazonaws.com
+52.89.139.175
+54.187.128.210
 #Name:	firstimpression.io
 54.230.245.165
 54.230.245.225
