@@ -21,9 +21,21 @@
 #2-01-3cf7-0009.cdx.cedexis.net	canonical name = wu.azureedge.net.
 #wu.azureedge.net	canonical name = wu.ec.azureedge.net.
 #wu.ec.azureedge.net	canonical name = wu.wpc.apr-52dd2.edgecastdns.net.
-#Name:	wu.wpc.apr-52dd2.edgecastdns.net
+#Name: wu.wpc.apr-52dd2.edgecastdns.net
 #Address: 72.5.65.111
 # -- end do not block ---
+# Magecart actors
+#Name: cdnanalytics.net
+#Name: cdnapis.com
+#Name: ossmaxcdn.com
+#Name: nexcesscdh.net
+190.2.139.23
+#Name: angular.club
+144.76.112.88
+#Name: baways.com
+89.47.162.248
+#Name: magescripts.pw
+192.42.119.41
 # A Deceitful 'Doctor' in the Mac App Store
 # a massively popular app, surreptitiously steals your browsing history
 # https://objective-see.com/blog/blog_0x37.html
