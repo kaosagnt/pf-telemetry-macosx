@@ -50,11 +50,14 @@
 54.230.245.32
 54.230.245.48
 54.230.245.60
+# COMpfun successor Reductor
+# https://securelist.com/compfun-successor-reductor/93633/
+#Name: adstat.pw
+#Name: bill-tat.pw
+72.5.65.111
 # -- crypto miners --
-#Name:	nanopool.org
+#Name: nanopool.org
 104.23.102.173
-#Name:	nanopool.org
-#104.23.103.173
 #Name:	xmr-asia1.nanopool.org
 139.99.102.70
 139.99.102.71
