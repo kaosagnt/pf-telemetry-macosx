@@ -502,6 +502,29 @@
 #ac3.msn.com.nsatc.net	canonical name = fesweb1.ch1d.binginternal.com.
 #Name: fesweb1.ch1d.binginternal.com
 131.253.14.76
+# https://api.aadrm.com/my/v2
+# Warning: Potential Security Risk Ahead
+# Firefox detected a potential security threat and did not continue to
+# api.aadrm.com.
+#api.aadrm.com	canonical name = aadrm-com.b-0026.b-msedge.net.
+#aadrm-com.b-0026.b-msedge.net	canonical name = b-0026.b-msedge.net.
+#Name: b-0026.b-msedge.net
+13.107.6.181
+#api.aadrm.de	canonical name = api-aadrm-bf.azuretrafficmanager.de.
+#api-aadrm-bf.azuretrafficmanager.de	canonical name = api-a-leg.aadrm.de.
+#api-a-leg.aadrm.de	canonical name = rmsoprodde-a-api-leg.azurecloudapp.de.
+#Name: rmsoprodde-a-api-leg.azurecloudapp.de
+#0.0.0.0
+#api.aadrm.us	canonical name = api-ff-prod.trafficmanager.net.
+#api-ff-prod.trafficmanager.net	canonical name = api-b-ugv.aadrm.us.
+#api-b-ugv.aadrm.us	canonical name = rmsoprodff-b-api-ugv.usgovcloudapp.net.
+#Name: rmsoprodff-b-api-ugv.usgovcloudapp.net
+13.72.54.149
+#api.aadrm.cn	canonical name = api-mc-prod.trafficmanager.cn.
+#api-mc-prod.trafficmanager.cn	canonical name = api-b-ce2.aadrm.cn.
+#api-b-ce2.aadrm.cn	canonical name = rmsoprodmc-b-api-ce2.chinacloudapp.cn.
+#Name: rmsoprodmc-b-api-ce2.chinacloudapp.cn
+139.217.233.70
 # -- start doubleclick.net --
 #ad.doubleclick.net	canonical name = dart.l.doubleclick.net.
 #Name: dart.l.doubleclick.net
