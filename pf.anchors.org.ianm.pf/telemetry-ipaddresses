@@ -528,11 +528,11 @@
 #ad.doubleclick.net	canonical name = dart.l.doubleclick.net.
 #Name: dart.l.doubleclick.net
 216.58.203.102
+172.217.167.102
 #googleads.g.doubleclick.net	canonical name = pagead46.l.doubleclick.net.
 #Name: pagead46.l.doubleclick.net
-#172.217.25.34
-#172.217.25.130
-172.217.25.0/24
+216.58.203.98
+
 #stats.g.doubleclick.net	canonical name = stats.l.doubleclick.net.
 #Name: stats.l.doubleclick.net
 #74.125.24.157
@@ -540,6 +540,12 @@
 #74.125.24.155
 #74.125.24.154
 74.125.24.0/24
+#Name:	stats.l.doubleclick.net
+#74.125.68.155
+#74.125.68.154
+#74.125.68.157
+#74.125.68.156
+74.125.68.0/24
 # -- end doubleclick.net --
 #ads.msn.com	canonical name = ads.msn.com.nsatc.net.
 #Name: ads.msn.com.nsatc.net
