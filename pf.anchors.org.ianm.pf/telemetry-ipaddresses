@@ -145,6 +145,8 @@
 #Name:	google-analytics.com
 # XXX Also resolves to www.google.com
 # XXX 172.217.167.100
+# XXX dl.google.com
+# XXX 172.217.167.110
 #ssl.google-analytics.com	canonical name = ssl-google-analytics.l.google.com.
 #Name:	ssl-google-analytics.l.google.com
 216.58.200.104
@@ -153,12 +155,13 @@
 #XXX 216.58.203.100
 #Name:	googletagmanager.com
 172.217.167.104
+172.217.25.136
 #tpc.googlesyndication.com	canonical name = pagead-googlehosted.l.google.com.
 #Name:	pagead-googlehosted.l.google.com
-172.217.167.97
+216.58.200.97
 #www.google-analytics.com	canonical name = www-google-analytics.l.google.com.
 #Name:	www-google-analytics.l.google.com
-172.217.167.110
+216.58.199.78
 # -- end google-analytics --
 #www.treasuredata.com	canonical name = live-td-dev-site.pantheonsite.io.
 #live-td-dev-site.pantheonsite.io	canonical name = fe2.edge.pantheon.io.
