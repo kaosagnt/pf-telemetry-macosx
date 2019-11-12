@@ -23,6 +23,11 @@
 #Name:	a767.dspw65.akamai.net
 #Address: 203.5.76.25
 #Address: 203.5.76.11
+#Name: imap.gmail.com
+#Address: 172.217.194.109
+#Address: 172.217.194.108
+#Name: smtp.gmail.com
+#Address: 74.125.24.109
 # -- end do not block ---
 # Magecart actors
 #Name: cdnanalytics.net
@@ -535,14 +540,13 @@
 #googleads.g.doubleclick.net	canonical name = pagead46.l.doubleclick.net.
 #Name: pagead46.l.doubleclick.net
 216.58.203.98
-
 #stats.g.doubleclick.net	canonical name = stats.l.doubleclick.net.
 #Name: stats.l.doubleclick.net
-#74.125.24.157
-#74.125.24.156
-#74.125.24.155
-#74.125.24.154
-74.125.24.0/24
+74.125.24.157
+74.125.24.156
+74.125.24.155
+74.125.24.154
+#74.125.24.0/24
 #Name:	stats.l.doubleclick.net
 #74.125.68.155
 #74.125.68.154
