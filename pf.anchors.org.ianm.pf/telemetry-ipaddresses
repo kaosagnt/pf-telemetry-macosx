@@ -288,6 +288,10 @@
 #hk2.settings.data.microsoft.com.akadns.net	canonical name = hk2-ap.settings.data.microsoft.com.akadns.net.
 #Name:	hk2-ap.settings.data.microsoft.com.akadns.net
 111.221.29.253
+#api.diagnostics.office.com canonical name = o365diagnosticsnew.trafficmanager.net.
+#o365diagnosticsnew.trafficmanager.net canonical name = o365diagnostics-cus-web.cloudapp.net.
+#Name:	o365diagnostics-cus-web.cloudapp.net
+13.89.189.102
 #settings-win.data.microsoft.com	canonical name = settingsfd-geo.trafficmanager.net.
 #settingsfd-geo.trafficmanager.net	canonical name = settingsfd-prod-hk2-endpoint.trafficmanager.net.
 #Name:	settingsfd-prod-hk2-endpoint.trafficmanager.net
