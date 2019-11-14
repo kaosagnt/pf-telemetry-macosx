@@ -267,15 +267,18 @@
 13.66.56.169
 #redir.metaservices.microsoft.com	canonical name = redir.metaservices.microsoft.com.edgesuite.net.
 #redir.metaservices.microsoft.com.edgesuite.net	canonical name = a1095.g2.akamai.net.
-#Name:	a1095.g2.akamai.net
+#Name: a1095.g2.akamai.net
 # Also officecdn-microsoft-com.akamaized.net
 # a1952.dspw65.akamai.net
 #203.5.76.25
 #203.5.76.34
-#Name:	a1095.g2.akamai.net
+#Name: a1095.g2.akamai.net
 203.5.76.8
 203.5.76.9
 203.5.76.17
+#settings.data.microsoft.com	canonical name = settingsfd-geo.trafficmanager.net.
+#Name: settingsfd-geo.trafficmanager.net
+20.189.74.153
 #settings-sandbox.data.microsoft.com	canonical name = sandbox.settings.data.microsoft.com.akadns.net.
 #Name:	sandbox.settings.data.microsoft.com.akadns.net
 40.80.222.227
