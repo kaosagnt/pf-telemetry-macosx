@@ -500,6 +500,11 @@
 #dc.trafficmanager.net	canonical name = eau-breeziest-in.cloudapp.net.
 #Name: eau-breeziest-in.cloudapp.net
 13.70.72.233
+#dc.services.visualstudio.com	canonical name = dc.applicationinsights.microsoft.com.
+#dc.applicationinsights.microsoft.com	canonical name = dc.trafficmanager.net.
+#dc.trafficmanager.net	canonical name = ausse-breeziest-in.cloudapp.net.
+#Name: ausse-breeziest-in.cloudapp.net
+13.77.52.29
 #test-exp-s2s.msedge.net
 # canonical name = test-exp-s2s-msedge-net.e-0009.e-msedge.net.
 # test-exp-s2s-msedge-net.e-0009.e-msedge.net
