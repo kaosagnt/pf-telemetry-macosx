@@ -89,7 +89,7 @@ ALTQ related functions disabled
 Windows 10 Firewall
 --------------------
 
-- Uses the Windows 10 firewall built into the Windows to block application egress of telemetry data.
+- Uses the Windows 10 firewall built into Windows to block application egress of telemetry data.
 
 install_win_firewall_block_telemetry.bat
 install-win-firewall-block-telemetry.ps1
