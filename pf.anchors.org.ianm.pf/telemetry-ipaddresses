@@ -27,10 +27,12 @@
 #Name: imap.gmail.com
 #Address: 172.217.194.108
 #Address: 172.217.194.109
-#Address: 74.125.200.108
-#Address: 74.125.200.109
+#Address: 74.125.68.108
+#Address: 74.125.68.109
 #Address: 74.125.130.108
 #Address: 74.125.130.109
+#Address: 74.125.200.108
+#Address: 74.125.200.109
 #Name: smtp.gmail.com
 #Address: 74.125.24.109
 # -- end do not block ---
@@ -559,17 +561,22 @@
 216.58.203.98
 #stats.g.doubleclick.net	canonical name = stats.l.doubleclick.net.
 #Name: stats.l.doubleclick.net
-74.125.24.157
-74.125.24.156
-74.125.24.155
 74.125.24.154
-#74.125.24.0/24
-#Name:	stats.l.doubleclick.net
-#74.125.68.155
-#74.125.68.154
-#74.125.68.157
-#74.125.68.156
-74.125.68.0/24
+74.125.24.155
+74.125.24.156
+74.125.24.157
+74.125.68.154
+74.125.68.155
+74.125.68.156
+74.125.68.157
+74.125.130.154
+74.125.130.155
+74.125.130.156
+74.125.130.157
+74.125.200.154
+74.125.200.155
+74.125.200.156
+74.125.200.157
 # -- end doubleclick.net --
 #ads.msn.com	canonical name = ads.msn.com.nsatc.net.
 #Name: ads.msn.com.nsatc.net
