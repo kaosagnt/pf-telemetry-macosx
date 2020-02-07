@@ -166,6 +166,11 @@
 185.3.92.98
 185.3.92.173
 # -- end Ad trackers --
+# Wacom the drawing tablet people use Google Analytics
+# for data collection. It looks at a control server first
+# so lets block that.
+#Name: link.wacom.com
+104.130.29.173
 # -- start google-analytics --
 #Name:	google-analytics.com
 # XXX Also resolves to www.google.com
