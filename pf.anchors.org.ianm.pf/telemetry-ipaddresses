@@ -362,6 +362,10 @@
 #pipe.prd.skypedata.akadns.net	canonical name = pipe.cloudapp.aria.akadns.net.
 #Name: pipe.cloudapp.aria.akadns.net
 #https://mobile.pipe.aria.microsoft.com/Collector/3.0/
+#pipe.int.trafficmanager.net	canonical name = onedsintcolwus00.cloudapp.net.
+#Name: onedsintcolwus00.cloudapp.net
+#https://pipe.int.trafficmanager.net/Collector/3.0/
+104.42.49.9
 #pipe.int.trafficmanager.net	canonical name = skypedataintcolwus00.cloudapp.net.
 #Name:	skypedataintcolwus00.cloudapp.net
 #https://pipe.int.trafficmanager.net/Collector/3.0/
