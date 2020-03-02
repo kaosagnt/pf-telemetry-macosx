@@ -391,6 +391,11 @@
 #pipe.prd.skypedata.akadns.net	canonical name = pipe.cloudapp.aria.akadns.net.
 #Name: pipe.cloudapp.aria.akadns.net
 #https://browser.pipe.aria.microsoft.com/Collector/3.0/
+#self.events.data.microsoft.com	canonical name = self.events.data.onecollector.akadns.net.
+#self.events.data.onecollector.akadns.net	canonical name = global.aria.events.data.trafficmanager.net.
+#global.aria.events.data.trafficmanager.net	canonical name = skypedataprdcolneu01.cloudapp.net.
+#Name: skypedataprdcolneu01.cloudapp.net
+#https://self.events.data.microsoft.com/OneCollector/1.0/
 #52.114.6.0/24
 #52.114.16.0/24
 #52.114.32.0/24
