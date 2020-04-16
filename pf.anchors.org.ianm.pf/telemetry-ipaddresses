@@ -166,6 +166,39 @@
 185.3.92.98
 185.3.92.173
 # -- end Ad trackers --
+# -- start zoom us --
+# macOS Zoom.us app
+#Name:	google.zoom.us
+52.202.62.237
+#Name:	log.zoom.us
+#238.62.202.52.in-addr.arpa	name = ec2-52-202-62-238.compute-1.amazonaws.com.
+#Name:	facebook.zoom.us
+52.202.62.238
+#Name: logfiles.zoomdev.us
+13.228.235.74
+#logfiles.zoom.us	canonical name = logfiles-va.zoom.us.
+#logfiles-va.zoom.us	canonical name = logfiles-va-3.zoom.us.
+#Name: logfiles-va-3.zoom.us
+3.235.72.254
+#logfiles-va.zoom.us	canonical name = logfiles-va-4.zoom.us.
+#Name: logfiles-va-4.zoom.us
+3.235.72.255
+#devgov.zipow.com	canonical name = dev-gov-elb-1762948257.us-east-1.elb.amazonaws.com.
+#Name: dev-gov-elb-1762948257.us-east-1.elb.amazonaws.com
+3.211.152.170
+52.4.87.202
+#xmppdev.zoom.us	canonical name = xmppdev-va.zoom.us.
+#Name: xmppdev-va.zoom.us
+35.168.107.193
+#Name: zoomus.cn
+54.223.89.199
+#www.zoomus.cn	canonical name = cn-pro-web-1163855227.cn-north-1.elb.amazonaws.com.cn.
+#Name:	cn-pro-web-1163855227.cn-north-1.elb.amazonaws.com.cn
+54.223.223.89
+54.223.89.199
+54.223.72.226
+54.223.89.237
+# -- end zoom us --
 # Wacom the drawing tablet people use Google Analytics
 # for data collection. It looks at a control server first
 # so lets block that.
