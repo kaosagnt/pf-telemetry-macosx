@@ -140,6 +140,12 @@
 107.173.21.239
 # -- end crypto miners --
 # -- Ad trackers --
+#Name:	advertising.com
+74.6.136.150
+98.136.103.23
+106.10.248.150
+124.108.115.100
+212.82.100.150
 # Zappistore - wistia
 #distillery.wistia.com	canonical name = dub-prod1-stats-tap-alb-79344629.us-west-2.elb.amazonaws.com.
 #Name:	dub-prod1-stats-tap-alb-79344629.us-west-2.elb.amazonaws.com
@@ -166,6 +172,17 @@
 185.3.92.98
 185.3.92.173
 # -- end Ad trackers --
+# -- start facebook --
+#Name: connect.facebook.net
+#Name:	scontent.xx.fbcdn.net
+#Name:	xx-fbcdn-shv-01-syd2.fbcdn.net
+#157.240.8.23
+#view.atdmt.com	canonical name = ad.atdmt.com.
+#ad.atdmt.com	canonical name = geo.atlassbx.com.
+#geo.atlassbx.com	canonical name = atlas.c10r.facebook.com.
+#Name: atlas.c10r.facebook.com
+157.240.8.7
+# -- end facebook --
 # -- start zoom us --
 # macOS Zoom.us app
 #Name:	google.zoom.us
@@ -213,16 +230,24 @@
 # XXX 172.217.167.100
 # XXX dl.google.com
 # XXX 172.217.167.110
-#ssl.google-analytics.com	canonical name = ssl-google-analytics.l.google.com.
+#ssl.google-analytics.com canonical name = ssl-google-analytics.l.google.com.
 #Name:	ssl-google-analytics.l.google.com
 216.58.200.104
-#Name:	googlesyndication.com
+#Name: googlesyndication.com
 #XXX this also resolves to www.google.com
 #XXX 216.58.203.100
-#Name:	googletagmanager.com
+#Name: googletagmanager.com
 172.217.167.104
 172.217.25.136
-#tpc.googlesyndication.com	canonical name = pagead-googlehosted.l.google.com.
+216.58.196.136
+#www.googletagmanager.com canonical name = www-googletagmanager.l.google.com.
+#Name: www-googletagmanager.l.google.com
+142.250.66.200
+#Name: googleleadservices.com
+#www.googleleadservices.com	canonical name = googleleadservices.com.
+#Name: googleleadservices.com
+184.178.236.61
+#tpc.googlesyndication.com canonical name = pagead-googlehosted.l.google.com.
 #Name:	pagead-googlehosted.l.google.com
 216.58.200.97
 #www.google-analytics.com	canonical name = www-google-analytics.l.google.com.
@@ -824,11 +849,6 @@
 52.183.47.176
 #Name: survey.watson.microsoft.com
 207.68.166.254
-#view.atdmt.com	canonical name = ad.atdmt.com.
-#ad.atdmt.com	canonical name = geo.atlassbx.com.
-#geo.atlassbx.com	canonical name = atlas.c10r.facebook.com.
-#Name: atlas.c10r.facebook.com
-157.240.8.7
 #www.msftncsi.com	canonical name = www.msftncsi.com.edgesuite.net.
 #www.msftncsi.com.edgesuite.net	canonical name = a1961.g2.akamai.net.
 #Name: a1961.g2.akamai.net
