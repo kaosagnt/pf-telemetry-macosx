@@ -878,3 +878,8 @@
 2.22.61.66
 # a23-218-212-69.deploy.static.akamaitechnologies.com
 23.218.212.69
+# -- start visitor-analytics.io --
+#Name: app-worker.visitor-analytics.io
+#13.41.130.94.in-addr.arpa name = static.13.41.130.94.clients.your-server.de.
+94.130.41.13
+# -- end visitor-analytics.io --
