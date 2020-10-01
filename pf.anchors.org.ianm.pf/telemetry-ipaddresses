@@ -146,21 +146,24 @@
 106.10.248.150
 124.108.115.100
 212.82.100.150
+#Name: tag.crsspxl.com
+#51.140.232.34.in-addr.arpa name = ec2-34-232-140-51.compute-1.amazonaws.com.
+34.232.140.51
 # Zappistore - wistia
 #distillery.wistia.com	canonical name = dub-prod1-stats-tap-alb-79344629.us-west-2.elb.amazonaws.com.
-#Name:	dub-prod1-stats-tap-alb-79344629.us-west-2.elb.amazonaws.com
+#Name: dub-prod1-stats-tap-alb-79344629.us-west-2.elb.amazonaws.com
 52.11.165.196
 54.201.233.70
-#pipedream.wistia.com	canonical name = dub-prod1-pipedream-prod-alb-302751516.us-west-2.elb.amazonaws.com.
-#Name:	dub-prod1-pipedream-prod-alb-302751516.us-west-2.elb.amazonaws.com
+#pipedream.wistia.com canonical name = dub-prod1-pipedream-prod-alb-302751516.us-west-2.elb.amazonaws.com.
+#Name: dub-prod1-pipedream-prod-alb-302751516.us-west-2.elb.amazonaws.com
 52.89.139.175
 54.187.128.210
-#Name:	firstimpression.io
+#Name: firstimpression.io
 54.230.245.165
 54.230.245.225
 54.230.245.126
 54.230.245.133
-#Name:	ecdn.firstimpression.io
+#Name: ecdn.firstimpression.io
 185.3.92.176
 185.3.93.141
 185.3.93.144
@@ -174,48 +177,48 @@
 # -- end Ad trackers --
 # -- start facebook --
 #Name: connect.facebook.net
-#Name:	scontent.xx.fbcdn.net
-#Name:	xx-fbcdn-shv-01-syd2.fbcdn.net
+#Name: scontent.xx.fbcdn.net
+#Name: xx-fbcdn-shv-01-syd2.fbcdn.net
 #157.240.8.23
 #view.atdmt.com	canonical name = ad.atdmt.com.
-#ad.atdmt.com	canonical name = geo.atlassbx.com.
-#geo.atlassbx.com	canonical name = atlas.c10r.facebook.com.
+#ad.atdmt.com canonical name = geo.atlassbx.com.
+#geo.atlassbx.com canonical name = atlas.c10r.facebook.com.
 #Name: atlas.c10r.facebook.com
 157.240.8.7
 # -- end facebook --
 # -- start zoom us --
 # macOS Zoom.us app
-#Name:	google.zoom.us
+#Name: google.zoom.us
 52.202.62.237
-#Name:	log.zoom.us
-#238.62.202.52.in-addr.arpa	name = ec2-52-202-62-238.compute-1.amazonaws.com.
-#Name:	facebook.zoom.us
+#Name: log.zoom.us
+#238.62.202.52.in-addr.arpa name = ec2-52-202-62-238.compute-1.amazonaws.com.
+#Name: facebook.zoom.us
 52.202.62.238
 #Name: logfiles.zoomdev.us
 13.228.235.74
-#logfiles.zoom.us	canonical name = logfiles-va.zoom.us.
+#logfiles.zoom.us canonical name = logfiles-va.zoom.us.
 #logfiles-va.zoom.us	canonical name = logfiles-va-3.zoom.us.
 #Name: logfiles-va-3.zoom.us
 3.235.72.254
-#logfiles-va.zoom.us	canonical name = logfiles-va-4.zoom.us.
+#logfiles-va.zoom.us canonical name = logfiles-va-4.zoom.us.
 #Name: logfiles-va-4.zoom.us
 3.235.72.255
-#devgov.zipow.com	canonical name = dev-gov-elb-1762948257.us-east-1.elb.amazonaws.com.
+#devgov.zipow.com canonical name = dev-gov-elb-1762948257.us-east-1.elb.amazonaws.com.
 #Name: dev-gov-elb-1762948257.us-east-1.elb.amazonaws.com
 3.211.152.170
 52.4.87.202
-#xmppdev.zoom.us	canonical name = xmppdev-va.zoom.us.
+#xmppdev.zoom.us canonical name = xmppdev-va.zoom.us.
 #Name: xmppdev-va.zoom.us
 35.168.107.193
 #Name: zoomus.cn
 54.223.89.199
-#www.zoomus.cn	canonical name = cn-pro-web-1163855227.cn-north-1.elb.amazonaws.com.cn.
-#Name:	cn-pro-web-1163855227.cn-north-1.elb.amazonaws.com.cn
+#www.zoomus.cn canonical name = cn-pro-web-1163855227.cn-north-1.elb.amazonaws.com.cn.
+#Name: cn-pro-web-1163855227.cn-north-1.elb.amazonaws.com.cn
 54.223.223.89
 54.223.89.199
 54.223.72.226
 54.223.89.237
-#zoom.com.cn	canonical name = gtm-cn-0pp1c9vdq01.zoom.com.cn.
+#zoom.com.cn canonical name = gtm-cn-0pp1c9vdq01.zoom.com.cn.
 #Name: gtm-cn-0pp1c9vdq01.zoom.com.cn
 69.174.108.252
 # -- end zoom us --
@@ -225,7 +228,7 @@
 #Name: link.wacom.com
 104.130.29.173
 # -- start google-analytics --
-#Name:	google-analytics.com
+#Name: google-analytics.com
 # XXX Also resolves to www.google.com
 # XXX 172.217.167.100
 # XXX dl.google.com
@@ -244,46 +247,41 @@
 #Name: www-googletagmanager.l.google.com
 142.250.66.200
 #Name: googleleadservices.com
-#www.googleleadservices.com	canonical name = googleleadservices.com.
+#www.googleleadservices.com canonical name = googleleadservices.com.
 #Name: googleleadservices.com
 184.178.236.61
 #tpc.googlesyndication.com canonical name = pagead-googlehosted.l.google.com.
-#Name:	pagead-googlehosted.l.google.com
+#Name: pagead-googlehosted.l.google.com
 216.58.200.97
-#www.google-analytics.com	canonical name = www-google-analytics.l.google.com.
-#Name:	www-google-analytics.l.google.com
+#www.google-analytics.com canonical name = www-google-analytics.l.google.com.
+#Name: www-google-analytics.l.google.com
 #Name: syd09s13-in-f14.1e100.net
 #Name: sin01s16-in-f14.1e100.net
 #Name: syd09s13-in-f174.1e100.net
-#Name syd15s06-in-f4.1e100.net
+#Name: syd15s06-in-f4.1e100.net
 172.217.167.68
 # -- end google-analytics --
-#www.treasuredata.com	canonical name = live-td-dev-site.pantheonsite.io.
-#live-td-dev-site.pantheonsite.io	canonical name = fe2.edge.pantheon.io.
-#Name:	fe2.edge.pantheon.io
-#Name:	treasuredata.com
-#Name:	in.treasuredata.com
+#www.treasuredata.com canonical name = live-td-dev-site.pantheonsite.io.
+#live-td-dev-site.pantheonsite.io canonical name = fe2.edge.pantheon.io.
+#Name: fe2.edge.pantheon.io
+#Name: treasuredata.com
+#Name: in.treasuredata.com
 52.1.21.168
-#Name:	in.treasuredata.com
 52.22.81.193
-#Name:	in.treasuredata.com
 52.72.158.36
-#Name:	in.treasuredata.com
 54.85.122.131
-#Name:	in.treasuredata.com
 34.237.177.162
-#Name:	in.treasuredata.com
 35.153.25.145
 # -- start linkedin.com Telemetry --
-#sb.scorecardresearch.com	canonical name = sb.scorecardresearch.com.edgekey.net.
-#sb.scorecardresearch.com.edgekey.net	canonical name = e1879.e7.akamaiedge.net.
+#sb.scorecardresearch.com canonical name = sb.scorecardresearch.com.edgekey.net.
+#sb.scorecardresearch.com.edgekey.net canonical name = e1879.e7.akamaiedge.net.
 #Name:	e1879.e7.akamaiedge.net
 23.63.12.44
 #Name:	scorecardresearch.com
 165.193.78.252
 # -- end linkedin.com Telemetry --
 # -- start github Telemetry octolytics-host --
-#collector.githubapp.com	canonical name = analytics-collector-28944298.us-east-1.elb.amazonaws.com.
+#collector.githubapp.com canonical name = analytics-collector-28944298.us-east-1.elb.amazonaws.com.
 #Name:	analytics-collector-28944298.us-east-1.elb.amazonaws.com
 3.224.219.57
 34.194.228.114
