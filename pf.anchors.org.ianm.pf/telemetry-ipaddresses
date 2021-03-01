@@ -261,6 +261,13 @@
 #Name: syd15s06-in-f4.1e100.net
 172.217.167.68
 # -- end google-analytics --
+# -- begin articulate metrics --
+#Name: metrics.articulate.com
+13.224.177.68
+13.224.177.79
+13.224.177.81
+13.224.177.98
+# -- end articulate metrics --
 #www.treasuredata.com canonical name = live-td-dev-site.pantheonsite.io.
 #live-td-dev-site.pantheonsite.io canonical name = fe2.edge.pantheon.io.
 #Name: fe2.edge.pantheon.io
