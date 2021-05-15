@@ -260,6 +260,11 @@
 #Name: syd09s13-in-f174.1e100.net
 #Name: syd15s06-in-f4.1e100.net
 172.217.167.68
+#www.google-analytics.com canonical name = www-google-analytics.l.google.com.
+#Name: google-analytics.com
+#Name: www-google-analytics.l.google.com
+142.250.66.164
+142.250.67.14
 # -- end google-analytics --
 # -- begin articulate metrics --
 #Name: metrics.articulate.com
