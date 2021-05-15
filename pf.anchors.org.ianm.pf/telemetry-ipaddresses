@@ -352,6 +352,11 @@
 54.191.69.20
 # -- end Mozilla Telemetry --
 # -- start matomo analytics --
+# Matoto cloud *.matoto.cloud subdomains.
+#Name: matomo.cloud
+#177.40.31.185.in-addr.arpa	name = matomo.alwaysdata.net.
+#Name: matomo.alwaysdata.net
+185.31.40.177
 #Name: matomo.realestateview.com.au
 # 217.253.153.54.in-addr.arpa name = ec2-54-153-253-217.ap-southeast-2.compute.amazonaws.com.
 # 213.50.62.52.in-addr.arpa name = ec2-52-62-50-213.ap-southeast-2.compute.amazonaws.com.
