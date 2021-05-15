@@ -346,6 +346,13 @@
 54.149.129.221
 54.191.69.20
 # -- end Mozilla Telemetry --
+# -- start matomo analytics --
+#Name: matomo.realestateview.com.au
+# 217.253.153.54.in-addr.arpa name = ec2-54-153-253-217.ap-southeast-2.compute.amazonaws.com.
+# 213.50.62.52.in-addr.arpa name = ec2-52-62-50-213.ap-southeast-2.compute.amazonaws.com.
+52.62.50.213
+54.153.253.217
+# -- end matomo analytics --
 #Name:	redshell.io
 138.91.197.151
 #api.redshell.io	canonical name = application-api.redshell.io.
