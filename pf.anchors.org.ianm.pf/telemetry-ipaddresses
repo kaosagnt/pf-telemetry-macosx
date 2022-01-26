@@ -80,6 +80,10 @@
 #Name: adstat.pw
 #Name: bill-tat.pw
 72.5.65.111
+# New DazzleSpy malware targets macOS users in watering hole attack
+# https://www.bleepingcomputer.com/news/security/new-dazzlespy-malware-targets-macos-users-in-watering-hole-attack/
+#Name: amnestyhk.org
+103.224.212.220
 # -- crypto miners --
 #Name: nanopool.org
 104.23.102.173
