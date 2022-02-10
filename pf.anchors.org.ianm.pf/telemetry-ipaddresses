@@ -613,7 +613,7 @@
 #a.rad.msn.com	canonical name = rad.msn.com.
 #Name:	a-0001.a-msedge.net
 13.107.21.200
-204.79.197.200
+#204.79.197.200 see below /24
 #Name: a-0001.a-msedge.net
 #Name: a-0002.a-msedge.net
 #Name: a-0003.a-msedge.net
