@@ -49,6 +49,14 @@
 #Address: 216.58.200.110
 #Address: 216.58.203.110
 # -- end do not block ---
+# -- malware --
+# https://threatresearch.ext.hp.com/redline-stealer-disguised-as-a-windows-11-upgrade/
+45.146.166.38
+# name: 81-4-105-174.cloud.ramnode.com
+81.4.105.174
+#name: vm1543372.4ssd.had.wf
+#Name: windows-upgraded.com
+91.211.249.8
 # Magecart actors
 #Name: cdnanalytics.net
 #Name: cdnapis.com
@@ -84,6 +92,7 @@
 # https://www.bleepingcomputer.com/news/security/new-dazzlespy-malware-targets-macos-users-in-watering-hole-attack/
 #Name: amnestyhk.org
 103.224.212.220
+# -- end malware --
 # -- crypto miners --
 #Name: nanopool.org
 104.23.102.173
