@@ -286,6 +286,12 @@
 13.224.177.81
 13.224.177.98
 # -- end articulate metrics --
+# -- begin inspectlet.com tracking --
+#Name: cdn.inspectlet.com
+104.22.56.245
+104.22.57.245
+172.67.10.172
+# -- end inspectlet.com tracking --
 #www.treasuredata.com canonical name = live-td-dev-site.pantheonsite.io.
 #live-td-dev-site.pantheonsite.io canonical name = fe2.edge.pantheon.io.
 #Name: fe2.edge.pantheon.io
