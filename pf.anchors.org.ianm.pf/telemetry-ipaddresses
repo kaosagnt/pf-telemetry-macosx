@@ -52,11 +52,21 @@
 # -- Leaky Forms ---
 # A Study of Email and Password Exfiltration Before Form Submission
 # https://homes.esat.kuleuven.be/~asenol/leaky-forms/
+# XXX
+# taboola.com and security.debian.org seem to resolve to the same
+# IP addresses (same vhosts??). Do some more research.
+# Don't block for now. 
 #Name: taboola.com
-151.101.2.132
-151.101.66.132
-151.101.130.132
-151.101.194.132
+#151.101.2.132
+#151.101.66.132
+#151.101.130.132
+#151.101.194.132
+#Name:	security.debian.org
+#Address: 151.101.194.132
+#Address: 151.101.2.132
+#Address: 151.101.66.132
+#Address: 151.101.130.132
+# XXX
 #Name: bizible.com
 104.18.191.233
 104.18.192.233
