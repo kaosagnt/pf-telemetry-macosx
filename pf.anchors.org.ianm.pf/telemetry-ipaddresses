@@ -114,11 +114,13 @@
 #Address: 18.67.93.120
 18.67.93.0/24
 #Name: 9w2zed1szg.execute-api.us-east-1.amazonaws.com
-#Address: 13.224.174.15
-#Address: 13.224.174.48
-#Address: 13.224.174.58
-#Address: 13.224.174.104
-13.224.174.0/24
+13.224.174.15
+13.224.174.48
+13.224.174.58
+13.224.174.104
+# download.docker.com uses IP addresses in the range 13.224.174.xxx
+# Don't block the whole range.
+#13.224.174.0/24
 #Name: shoptarget.com.br
 34.195.26.131
 52.20.120.188
