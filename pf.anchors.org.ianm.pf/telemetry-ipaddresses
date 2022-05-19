@@ -81,11 +81,13 @@
 #Address: 18.67.93.114
 18.67.93.0/24
 #Name: awin1.com
-#Address: 13.35.138.8
-#Address: 13.35.138.28
-#Address: 13.35.138.75
-#Address: 13.35.138.86
-13.35.138.0/24
+13.35.138.8
+13.35.138.28
+13.35.138.75
+13.35.138.86 
+# www.service.nsw.gov.au uses IP addresses in the range 13.35.138.xxx
+# Don't block the whole range.
+#13.35.138.0/24
 #Name: zoominfo.com
 104.16.101.12
 104.16.168.82
