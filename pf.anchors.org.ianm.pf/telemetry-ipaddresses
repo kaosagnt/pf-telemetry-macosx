@@ -205,11 +205,13 @@
 18.134.103.241
 18.170.170.68
 #Name: iterable.com
-#Address: 13.35.138.10
-#Address: 13.35.138.41
-#Address: 13.35.138.111
-#Address: 13.35.138.117
-13.35.138.0/24
+13.35.138.10
+13.35.138.41
+13.35.138.111
+13.35.138.117
+# www.service.nsw.gov.au uses IP addresses in the range 13.35.138.xxx
+# Don't block the whole range.
+#13.35.138.0/24
 #Name: iterable.com
 #Address: 18.67.105.11
 #Address: 18.67.105.68
