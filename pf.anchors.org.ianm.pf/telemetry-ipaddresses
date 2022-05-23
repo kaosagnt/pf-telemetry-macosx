@@ -266,6 +266,10 @@
 104.198.236.1
 # -- end Leaky Forms --
 # -- malware --
+# https://blog.sonatype.com/new-pymafka-malicious-package-drops-cobalt-strike-on-macos-windows-linux
+39.106.227.92
+#147.58.164.141.in-addr.arpa	name = 141.164.58.147.vultrusercontent.com.
+141.164.58.147
 # https://threatresearch.ext.hp.com/redline-stealer-disguised-as-a-windows-11-upgrade/
 45.146.166.38
 # name: 81-4-105-174.cloud.ramnode.com
