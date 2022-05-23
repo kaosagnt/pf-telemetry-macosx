@@ -266,6 +266,9 @@
 104.198.236.1
 # -- end Leaky Forms --
 # -- malware --
+# https://www.bleepingcomputer.com/news/security/pdf-smuggles-microsoft-word-doc-to-drop-snake-keylogger-malware/
+#Name: vtaurl.com
+5.189.139.221
 # https://blog.sonatype.com/new-pymafka-malicious-package-drops-cobalt-strike-on-macos-windows-linux
 39.106.227.92
 #147.58.164.141.in-addr.arpa	name = 141.164.58.147.vultrusercontent.com.
