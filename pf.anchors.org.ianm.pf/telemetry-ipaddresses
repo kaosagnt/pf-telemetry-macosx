@@ -94,11 +94,13 @@
 # asumansenol/unknown_tracker_domains.csv
 # https://gist.github.com/asumansenol/51375ec3bfe49888c78a76100eb919c4
 #Name: zenaps.com
-#Address: 18.67.105.32
-#Address: 18.67.105.51
-#Address: 18.67.105.77
-#Address: 18.67.105.98
-18.67.105.0/24
+18.67.105.32
+18.67.105.51
+18.67.105.77
+18.67.105.98
+# vlycgtx.com (Express VPN) uses IP addresses in the range 18.67.105.xxx
+# Don't block the whole range.
+#18.67.105.0/24
 #Name: cybba.solutions
 104.21.67.105
 172.67.221.94
@@ -213,11 +215,13 @@
 # Don't block the whole range.
 #13.35.138.0/24
 #Name: iterable.com
-#Address: 18.67.105.11
-#Address: 18.67.105.68
-#Address: 18.67.105.101
-#Address: 18.67.105.128
-18.67.105.0/24
+18.67.105.11
+18.67.105.68
+18.67.105.101
+18.67.105.128
+# vlycgtx.com (Express VPN) uses IP addresses in the range 18.67.105.xxx
+# Don't block the whole range.
+#18.67.105.0/24
 #Name: lemnisk.co
 3.93.190.145
 #Name: mantisadnetwork.com
