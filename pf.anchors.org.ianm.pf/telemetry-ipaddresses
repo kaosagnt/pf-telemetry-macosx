@@ -187,10 +187,12 @@
 104.18.36.58
 172.64.151.198
 #Name: eqy.link
-216.239.32.21
-216.239.34.21
-216.239.36.21
-216.239.38.21
+#Name: smart-data-systems.com
+# Also resolves to go.dev (go lang)
+#XXX 216.239.32.21
+#XXX 216.239.34.21
+#XXX 216.239.36.21
+#XXX 216.239.38.21
 #Name: formstack.com
 #Address: 13.33.65.37
 #Address: 13.33.65.76
@@ -241,11 +243,6 @@
 54.230.151.0/24
 #Name: sbird.xyz
 8.210.6.63
-#Name: smart-data-systems.com
-216.239.32.21
-216.239.34.21
-216.239.36.21
-216.239.38.21
 #Name: springbot.com
 104.199.114.90
 #Name: tend.io
