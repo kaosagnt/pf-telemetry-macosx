@@ -270,6 +270,11 @@
 104.198.236.1
 # -- end Leaky Forms --
 # -- malware --
+# https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-now-exploited-by-chinese-apt-hackers/
+#Name: tibet-gov.web.app
+199.36.158.100
+#Name: coolrat.xyz
+156.249.29.32
 # https://www.bleepingcomputer.com/news/security/pdf-smuggles-microsoft-word-doc-to-drop-snake-keylogger-malware/
 #Name: vtaurl.com
 5.189.139.221
