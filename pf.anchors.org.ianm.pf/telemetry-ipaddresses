@@ -612,7 +612,6 @@
 54.153.253.217
 # -- end matomo analytics --
 #Name:	redshell.io
-138.91.197.151
 #api.redshell.io	canonical name = application-api.redshell.io.
 #application-api.redshell.io	canonical name = prod-lb.redshell.io.
 #Name:	prod-lb.redshell.io
