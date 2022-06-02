@@ -968,11 +968,7 @@
 #Name: e4707.g.akamaiedge.net
 138.44.24.74
 #az361816.vo.msecnd.net	canonical name = cs9.wpc.v0cdn.net.
-#Name: cs9.wpc.v0cdn.net
-117.18.232.200
 #az512334.vo.msecnd.net	canonical name = cs9.wpc.v0cdn.net.
-#Name: cs9.wpc.v0cdn.net
-117.18.232.200
 #b.ads1.msn.com	canonical name = ads1.msn.com.
 #ads1.msn.com	canonical name = global.msads.net.c.footprint.net.
 #Name: global.msads.net.c.footprint.net
@@ -981,8 +977,6 @@
 8.253.118.126
 #b.ads2.msads.net	canonical name = msnads.vo.msecnd.net.
 #msnads.vo.msecnd.net	canonical name = cs9.wpc.v0cdn.net.
-#Name: cs9.wpc.v0cdn.net
-117.18.232.200
 #b.rad.msn.com	canonical name = rad.msn.com.
 #bs.serving-sys.com	canonical name = bs.eyeblaster.akadns.net.
 #bs.eyeblaster.akadns.net	canonical name = bssg.eyeblaster.akadns.net.
@@ -1009,8 +1003,6 @@
 94.245.121.177
 #ec.atdmt.com	canonical name = atlasdmt.vo.msecnd.net.
 #atlasdmt.vo.msecnd.net	canonical name = cs9.wpc.v0cdn.net.
-#Name: cs9.wpc.v0cdn.net
-117.18.232.200
 #fe2.update.microsoft.com.akadns.net	canonical name = fe2.update.microsoft.com.nsatc.net.
 #Name: fe2.update.microsoft.com.nsatc.net
 191.232.80.60
@@ -1104,17 +1096,14 @@
 216.58.203.102
 #statsfe1.ws.microsoft.com	canonical name = s1.statsupdate.microsoft.com.nsatc.net.
 #Name: s1.statsupdate.microsoft.com.nsatc.net
+#statsfe2.ws.microsoft.com	canonical name = s2.statsupdate.microsoft.com.nsatc.net.
+#Name: s2.statsupdate.microsoft.com.nsatc.net
 52.183.47.176
 #Name: s1.statsupdate.microsoft.com.nsatc.net
 52.183.118.171
 #statsfe2.update.microsoft.com.akadns.net	canonical name = s2.statsupdate.microsoft.com.nsatc.net.
 #Name: s2.statsupdate.microsoft.com.nsatc.net
 13.78.184.44
-#Name: s2.statsupdate.microsoft.com.nsatc.net
-52.183.47.176
-#statsfe2.ws.microsoft.com	canonical name = s2.statsupdate.microsoft.com.nsatc.net.
-#Name: s2.statsupdate.microsoft.com.nsatc.net
-52.183.47.176
 #Name: survey.watson.microsoft.com
 207.68.166.254
 #www.msftncsi.com	canonical name = www.msftncsi.com.edgesuite.net.
