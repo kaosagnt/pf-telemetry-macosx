@@ -141,9 +141,11 @@
 #Name: capturehighered.net
 52.20.134.157
 #Name: campaignmonitor.com
-#Address: 141.193.213.20
-#Address: 141.193.213.21
-141.193.213.0/24
+141.193.213.20
+141.193.213.21
+# Do not bock whole subnet as clipsalsolor.com
+# has an IP address in that range.
+#141.193.213.0/24
 #Name: clerk.io
 52.58.19.228
 #Name: addwish.com
