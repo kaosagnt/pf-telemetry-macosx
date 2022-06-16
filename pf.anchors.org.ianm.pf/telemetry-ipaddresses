@@ -76,11 +76,13 @@
 #Name: bouncex.net
 104.198.14.52
 #Name: awin1.com
-#Address: 18.67.93.26
-#Address: 18.67.93.72
-#Address: 18.67.93.108
-#Address: 18.67.93.114
-18.67.93.0/24
+18.67.93.26
+18.67.93.72
+18.67.93.108
+18.67.93.114
+# www.supercheapauto.com.au uses IP addresses in the range 18.67.93.xxx
+# Don't block the whole range.
+#18.67.93.0/24
 #Name: awin1.com
 13.35.138.8
 13.35.138.28
@@ -108,16 +110,15 @@
 #Name: funnelytics.io
 162.159.135.42
 #Name: wickedreports.com
-#Address: 18.67.93.23
-#Address: 18.67.93.24
-#Address: 18.67.93.29
-#Address: 18.67.93.37
+18.67.93.23
+18.67.93.24
+18.67.93.29
+18.67.93.37
 #Name: 9w2zed1szg.execute-api.us-east-1.amazonaws.com
-#Address: 18.67.93.7
-#Address: 18.67.93.62
-#Address: 18.67.93.89
-#Address: 18.67.93.120
-18.67.93.0/24
+18.67.93.7
+18.67.93.62
+18.67.93.89
+18.67.93.120
 #Name: 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 13.224.174.15
 13.224.174.48
