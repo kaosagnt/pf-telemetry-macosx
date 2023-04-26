@@ -838,6 +838,10 @@
 #dc.trafficmanager.net	canonical name = ausse-breeziest-in.cloudapp.net.
 #Name: ausse-breeziest-in.cloudapp.net
 13.77.52.29
+#www.bingapis.com canonical name = www-bingapis-com.e-0001.e-msedge.net.
+#www-bingapis-com.e-0001.e-msedge.net canonical name = e-0001.e-msedge.net.
+#Name: e-0001.e-msedge.net
+13.107.5.80
 #test-exp-s2s.msedge.net
 # canonical name = test-exp-s2s-msedge-net.e-0009.e-msedge.net.
 # test-exp-s2s-msedge-net.e-0009.e-msedge.net
