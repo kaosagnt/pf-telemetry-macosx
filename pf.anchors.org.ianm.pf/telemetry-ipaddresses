@@ -572,13 +572,6 @@
 # sponsorlink.azurewebsites.net canonical name = hosts.sponsorlink.azurewebsites.net.
 #Name: hosts.sponsorlink.azurewebsites.net
 40.119.12.17
-#cdn.devlooped.com canonical name = devlooped-fjh7e9ewhsdwbygx.z01.azurefd.net.
-#devlooped-fjh7e9ewhsdwbygx.z01.azurefd.net canonical name = star-azurefd-prod.trafficmanager.net.
-#star-azurefd-prod.trafficmanager.net canonical name = dual.part-0003.t-0009.t-msedge.net.
-#dual.part-0003.t-0009.t-msedge.net canonical name = part-0003.t-0009.t-msedge.net.
-#Name:	part-0003.t-0009.t-msedge.net
-13.107.246.31
-13.107.213.31
 # -- end sponsorlink.devlooped.com --
 #Name:	redshell.io
 #api.redshell.io	canonical name = application-api.redshell.io.
