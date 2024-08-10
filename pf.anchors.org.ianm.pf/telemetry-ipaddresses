@@ -49,6 +49,13 @@
 #Address: 216.58.200.110
 #Address: 216.58.203.110
 # -- end do not block ---
+# -- 0.0.0.0 Day
+# https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser
+# "this network" (RFC 3330)
+0.0.0.0/8
+# limited broadcast (RFC 3330)
+255.255.255.255
+# -- end 0.0.0.0 Day
 # -- Leaky Forms ---
 # A Study of Email and Password Exfiltration Before Form Submission
 # https://homes.esat.kuleuven.be/~asenol/leaky-forms/
