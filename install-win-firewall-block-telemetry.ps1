@@ -1,6 +1,6 @@
 # %BEGIN_COPYRIGHT%
 # 
-# Copyright 2019-2024 Ian McWilliam (kaosagnt@gmail.com).
+# Copyright 2019-2025 Ian McWilliam (kaosagnt@gmail.com).
 #
 # Permission to use, copy, modify, and distribute this software for any
 # purpose with or without fee is hereby granted, provided that the above
