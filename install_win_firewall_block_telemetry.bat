@@ -2,7 +2,7 @@
 
 @rem %BEGIN_COPYRIGHT%
 @rem 
-@rem Copyright 2019-2025 Ian McWilliam (kaosagnt@gmail.com).
+@rem Copyright 2019-2026 Ian McWilliam (kaosagnt@gmail.com).
 @rem
 @rem Permission to use, copy, modify, and distribute this software for any
 @rem purpose with or without fee is hereby granted, provided that the above
